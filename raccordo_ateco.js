@@ -36,18 +36,20 @@
 'use strict';
 
 const { classificaAteco2007 } = require('./allegato_iv_asr2025');
+const {
+  ECCEZIONI_2025, AMBIGUI_2025, SENZA_RACCORDO_2025,
+} = require('./raccordo_istat_2025');
 
 // ──────────────────────────────────────────────────────────────────────────
-//  Mappatura puntuale di codici ATECO 2025 frequenti che cambiano
-//  divisione rispetto ad ATECO 2007 (fonte: tavola di raccordo ISTAT).
-//  Questa lista è MIRATA: include solo casi in cui la divisione ATECO 2025
-//  cade fuori dall'Allegato IV o cambia livello di rischio rispetto al
-//  predecessore 2007. Lasciamo vuota per ora (sarà popolata su necessità).
+//  Mappatura puntuale di codici ATECO 2025 che cambiano divisione rispetto ad
+//  ATECO 2007. Non è più vuota: è calcolata sulle tavole ISTAT e sta in
+//  raccordo_istat_2025.js, con la provenienza riga per riga.
+//
+//  Sono 9 casi su 1.290 codici foglia — l'assunzione che le divisioni siano
+//  stabili è vera quasi sempre, ma «quasi» ha una direzione: 2 dei 9 danno una
+//  classe PIÙ BASSA del vero, e quelli espongono.
 // ──────────────────────────────────────────────────────────────────────────
-const RACCORDO_PUNTUALE_2025_2007 = {
-  // 'ATECO_2025': { ateco2007: 'XX.XX.XX', note: '...' },
-  // (aggiungere qui solo i casi in cui le PRIME 2 CIFRE differiscono)
-};
+const RACCORDO_PUNTUALE_2025_2007 = ECCEZIONI_2025;
 
 // ──────────────────────────────────────────────────────────────────────────
 //  Funzione: dato un codice ATECO (di qualsiasi versione: 2007, 2022, 2025),
@@ -67,11 +69,38 @@ function classificaRischio(codiceAteco, opts = {}) {
     if (r) return { ...r, codiceInput: norm, ateco2007Equivalente: map.ateco2007, note: map.note };
   }
 
-  // 2) Caso standard: divisione (prime 2 cifre) invariata
+  // 2) Ambiguo: il raccordo ISTAT porta a divisioni con classi diverse.
+  //    Non si sceglie in silenzio — si segnala. Scegliere qui sarebbe una
+  //    deduzione spacciata per lettura.
+  if (AMBIGUI_2025[norm]) {
+    const a = AMBIGUI_2025[norm];
+    const r = classificaAteco2007(norm);
+    return {
+      ...(r || {}),
+      codiceInput: norm,
+      ambiguo: true,
+      classiPossibili: a.classi,
+      sottostimaPossibile: Boolean(a.sottostimaPossibile),
+      note: `Il raccordo ISTAT porta questo codice a più divisioni ATECO 2022 ` +
+            `con classi diverse (${a.classi.join(', ')}). Le prime 2 cifre danno ` +
+            `"${a.prime2cifre}". Va deciso sulla valutazione dei rischi, non qui.`,
+    };
+  }
+
+  // 3) Senza corrispondenza nella tavola ISTAT: assente, non ambiguo.
+  if (SENZA_RACCORDO_2025.includes(norm)) {
+    return {
+      errore: `Il codice ATECO 2025 "${norm}" non ha corrispondenza nella tavola ` +
+              'di raccordo ISTAT 2025/2022: la classe non è deducibile.',
+      codiceInput: norm,
+    };
+  }
+
+  // 4) Caso standard: divisione (prime 2 cifre) invariata
   const r = classificaAteco2007(norm);
   if (r) return r;
 
-  // 3) Codice non riconosciuto
+  // 5) Codice non riconosciuto
   return {
     errore: `Codice ATECO "${norm}" non trovato nell'Allegato IV. ` +
             'Verificare la divisione (2 cifre iniziali) sulla tabella ISTAT ' +
@@ -109,4 +138,6 @@ module.exports = {
   classificaRischio,
   classificaClienteMultiSede,
   RACCORDO_PUNTUALE_2025_2007,
+  AMBIGUI_2025,
+  SENZA_RACCORDO_2025,
 };

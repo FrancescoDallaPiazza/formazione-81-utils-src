@@ -12,6 +12,7 @@ Pensato per essere clonato dalle skill di Claude di Overall Group (`kitformasubi
 |------|-------------|
 | `allegato_iv_asr2025.js` | Tabella **Allegato IV** ASR 17/04/2025 — 88 divisioni ATECO 2007 classificate in BASSO/MEDIO/ALTO + tabella durate formazione |
 | `raccordo_ateco.js` | Funzione `classificaRischio(codice)` — accetta ATECO 2007/2022/2025 e risolve il livello di rischio. Funzione `classificaClienteMultiSede(codici)` — aggrega più codici prendendo il più alto |
+| `raccordo_istat_2025.js` | Le **eccezioni misurate** del raccordo ATECO 2025 -> 2022/2007: i 9 codici su 1.290 dove prendere le prime due cifre da la classe sbagliata, i 21 ambigui da segnalare e 1 senza corrispondenza. Generato dalle tavole ISTAT, con la provenienza in testa e la citazione riga per riga |
 | `tests/smoke_test.js` | Smoke test rapido sui casi normativi noti (Istruzione=MEDIO da Interpello MLPS 1/2025, Costruzioni=ALTO, Ristorazione=BASSO, ecc.) |
 
 ---
@@ -61,3 +62,22 @@ Resta facoltà del **datore di lavoro** classificare le mansioni in base alla **
 - Tabella Allegato IV completa (88 divisioni)
 - Funzioni `classificaRischio()`, `classificaClienteMultiSede()`
 - Smoke test su 7 casi normativi noti
+
+
+## Il ruolo di questa libreria
+
+Dal 9 settembre 2026 questa libreria non e una raccolta di utilita: e la **base
+normativa** del gruppo, a monte di AppOverall e di AppSopralluoghi. La decisione e
+scritta in `AppOverall/docs/decisioni/7-base-normativa.md`, con le tre regole che
+comporta:
+
+- **R1** — le fonti stanno accanto al generatore, cioe qui.
+- **R2** — ogni riga generata deve poter dire da dove viene, con la citazione **per
+  riga** e non per tabella. `raccordo_istat_2025.js` e il primo file che la rispetta.
+  Le divisioni 30, 86 e 87 in `allegato_iv_asr2025.js` **non** la rispettano: sono
+  classificate `ALTO` senza citazione, e l'Allegato IV non le nomina.
+- **R3** — chi consuma dichiara la versione. `src/formazione/ateco.ts` di
+  AppSopralluoghi dice da dove e generato ma non da quando: manca il commit.
+
+Corollario per chi usa la libreria: **i file generati non si modificano a valle.**
+Un difetto nella tabella ATECO si ripara qui e si rigenera.
