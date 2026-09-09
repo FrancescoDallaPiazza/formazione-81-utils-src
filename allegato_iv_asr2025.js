@@ -12,9 +12,11 @@
  *  alla classificazione ATECO 2007 (aggiornamento 2022) e NON all'ATECO 2025.
  *
  *  Fonti incrociate utilizzate per ricostruire la tabella:
- *  - Allegato 2 Accordo SR 21/12/2011 (GU n.8 del 11/01/2012)
+ *  - Allegato 2 Accordo SR 21/12/2011 (GU n.8 del 11/01/2012, p. 48)
  *    https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?
- *    art.codiceRedazionale=12A00058
+ *    art.codiceRedazionale=12A00059
+ *    (qui era indicato 12A00058, che e un altro atto: verificato sulla
+ *     Gazzetta il 9 settembre 2026)
  *  - Testo ufficiale ASR 17/04/2025 (Rep. Atti 59/CSR)
  *    https://www.asr2025.it/conferenza-stato-regioni-del-17-aprile-2025/
  *  - Interpello MLPS n.1/2025 (18/09/2025) che cita testualmente:
@@ -25,10 +27,38 @@
  *  Struttura: l'Allegato IV classifica le attività in BASSO / MEDIO / ALTO
  *  utilizzando le SEZIONI (lettere) e le DIVISIONI (codice a 2 cifre) della
  *  classificazione ATECO 2007.
+ *
+ *  TRE DIVISIONI NON SI LEGGONO NEL TESTO VIGENTE: 30, 86 e 87
+ *  -----------------------------------------------------------
+ *  Nell'ASR 2025 quelle tre righe non ci sono. Non perche il legislatore le
+ *  abbia tolte: l'ultima pagina di quella tabella e tipograficamente rotta —
+ *  la 30 e stampata «33» (la sequenza e 29, 33, 31, 32: crescente ovunque
+ *  tranne li), e la sezione Q ha l'intestazione stampata sopra il vuoto. Gli
+ *  stessi refusi da OCR stanno nel testo della Conferenza e nella riedizione,
+ *  quindi la seconda ristampa fedelmente il primo e non aggiunge niente.
+ *
+ *  Il valore ALTO su quelle tre viene dalla FONTE PRIMARIA del 2011 (GU n.8
+ *  dell'11/01/2012, p. 48, atto 12A00059), che le classifica tutte e tre, PIU
+ *  la deduzione che il vigente non abbia inteso declassarle. Le due cose sono
+ *  marcate separatamente sulle tre voci: `fonte` dice da dove viene il valore,
+ *  `dedotto: true` dice che una parte del ragionamento e nostra e non della
+ *  norma. Chi consuma questa tabella deve poter mostrare la distinzione: se in
+ *  ispezione la risposta e «l'ha messo il programma», non regge.
+ *
+ *  Decisione del 9 settembre 2026, scheda 5 di AppOverall/docs/decisioni/.
+ *  Si riapre da sola se esce un chiarimento ufficiale: allora `dedotto` cade e
+ *  al suo posto va la citazione nuova.
  * ============================================================================
  */
 
 'use strict';
+
+// Provenienza delle tre divisioni che il testo vigente non stampa (30, 86, 87).
+// Sta accanto al valore, non al posto suo: il livello e ALTO, ma chi lo legge
+// deve poter dire da dove viene e quanta deduzione c'e dentro.
+const FONTE_2011 =
+  'Allegato II Accordo 221/CSR del 21/12/2011, GU n.8 dell\'11/01/2012 p. 48, ' +
+  'atto 12A00059 — il testo vigente tace per guasto tipografico, non per scelta';
 
 // ──────────────────────────────────────────────────────────────────────────
 //  ALLEGATO IV — Tabella ufficiale (chiave: divisione ATECO 2007 a 2 cifre)
@@ -159,7 +189,9 @@ const ALLEGATO_IV = {
   '27': { sezione: 'C', livello: 'ALTO', desc: 'Fabbricazione di apparecchiature elettriche e per uso domestico non elettriche' },
   '28': { sezione: 'C', livello: 'ALTO', desc: 'Fabbricazione di macchinari ed apparecchiature NCA' },
   '29': { sezione: 'C', livello: 'ALTO', desc: 'Fabbricazione di autoveicoli, rimorchi e semirimorchi' },
-  '30': { sezione: 'C', livello: 'ALTO', desc: 'Fabbricazione di altri mezzi di trasporto' },
+  // Nel testo vigente la 30 e stampata «33»: il valore viene dalla fonte del 2011
+  '30': { sezione: 'C', livello: 'ALTO', desc: 'Fabbricazione di altri mezzi di trasporto',
+          fonte: FONTE_2011, dedotto: true },
   '31': { sezione: 'C', livello: 'ALTO', desc: 'Fabbricazione di mobili' },
   '32': { sezione: 'C', livello: 'ALTO', desc: 'Altre industrie manifatturiere' },
   '33': { sezione: 'C', livello: 'ALTO', desc: 'Riparazione, manutenzione ed installazione di macchine ed apparecchiature' },
@@ -179,8 +211,12 @@ const ALLEGATO_IV = {
   '43': { sezione: 'F', livello: 'ALTO', desc: 'Lavori di costruzione specializzati' },
 
   // Sezione Q — Sanità (assistenza sanitaria + assistenza sociale residenziale)
-  '86': { sezione: 'Q', livello: 'ALTO', desc: 'Assistenza sanitaria' },
-  '87': { sezione: 'Q', livello: 'ALTO', desc: 'Servizi di assistenza sociale residenziale' },
+  // Nel testo vigente l'intestazione Q e stampata sopra il vuoto, e li il documento
+  // finisce: il valore delle due divisioni viene dalla fonte del 2011
+  '86': { sezione: 'Q', livello: 'ALTO', desc: 'Assistenza sanitaria',
+          fonte: FONTE_2011, dedotto: true },
+  '87': { sezione: 'Q', livello: 'ALTO', desc: 'Servizi di assistenza sociale residenziale',
+          fonte: FONTE_2011, dedotto: true },
 };
 
 // Tabella durate (Allegato A ASR 17/04/2025, Parte II, par. 2.1 Lavoratori)
@@ -210,8 +246,12 @@ function classificaAteco2007(codice) {
     descrizione:    r.desc,
     livello:        r.livello,
     oreFormazione:  DURATE_FORMAZIONE[r.livello],
-    fonte:          'Allegato IV ASR 17/04/2025 (Rep. Atti 59/CSR) - ' +
+    // Il valore e la sua provenienza sono due cose e restano separate: per tre
+    // divisioni la fonte non e l'accordo vigente, e `dedotto` lo dice.
+    fonte:          r.fonte ||
+                    'Allegato IV ASR 17/04/2025 (Rep. Atti 59/CSR) - ' +
                     'classificazione ancorata ad ATECO 2007 agg. 2022',
+    dedotto:        r.dedotto === true,
   };
 }
 
