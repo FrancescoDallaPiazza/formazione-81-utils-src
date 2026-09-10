@@ -71,13 +71,47 @@ normativa** del gruppo, a monte di AppOverall e di AppSopralluoghi. La decisione
 scritta in `AppOverall/docs/decisioni/7-base-normativa.md`, con le tre regole che
 comporta:
 
-- **R1** — le fonti stanno accanto al generatore, cioe qui.
+- **R1** — le fonti stanno accanto al generatore, cioe qui. **Soddisfatta il 10
+  settembre 2026**: `reference/` e arrivata da AppFormazione intera, 41 file, 26 MB —
+  20 trascrizioni con parte, punto e pagina, 17 PDF, 2 tavole ISTAT e 2 ritagli di
+  Gazzetta. Non e una copia: e stata **spostata**, e in AppFormazione al suo posto
+  resta un puntatore. La sorgente autorevole e una sola, ed e questa.
 - **R2** — ogni riga generata deve poter dire da dove viene, con la citazione **per
   riga** e non per tabella. `raccordo_istat_2025.js` e il primo file che la rispetta.
-  Le divisioni 30, 86 e 87 in `allegato_iv_asr2025.js` **non** la rispettano: sono
-  classificate `ALTO` senza citazione, e l'Allegato IV non le nomina.
+  Le divisioni 30, 86 e 87 in `allegato_iv_asr2025.js` la rispettano **a meta**, e la
+  meta va detta: portano la citazione della fonte del 2011 in `fonte` e dichiarano in
+  `dedotto: true` che il passaggio dal 2011 al vigente e un ragionamento nostro. Da
+  oggi la prova di quella citazione non e piu altrove — sono i due ritagli in
+  `reference/fonti/GU-8-2012-allegato-II-rischio-alto-*.png`, che e la ragione per cui
+  quei 610 KB valgono il loro peso piu di tutto il resto della cartella.
 - **R3** — chi consuma dichiara la versione. `src/formazione/ateco.ts` di
   AppSopralluoghi dice da dove e generato ma non da quando: manca il commit.
 
 Corollario per chi usa la libreria: **i file generati non si modificano a valle.**
 Un difetto nella tabella ATECO si ripara qui e si rigenera.
+
+
+## `reference/` — le fonti
+
+La cartella e l'ingresso della libreria: **niente entra in un `.js` se non si legge
+qui**, e chi codifica una regola la cerca in `reference/` prima di scriverla. Se la
+citazione non si trova, la regola non entra.
+
+    reference/README.md      l'indice, e la gerarchia delle sei fonti
+    reference/*.md           20 trascrizioni: riportano il testo, non una parafrasi
+    reference/fonti/         17 PDF, 2 tavole ISTAT (.xlsx), 2 ritagli di GU (.png)
+    reference/assorbite-organigramma/   cosa e stato preso da Organigramma-sicurezza
+
+Chi legge il PDF dell'accordo deve sapere una cosa sola, e sbagliarla significa
+citare la pagina sbagliata: in `ASR-170425.pdf` **l'indice di pagina non e il numero
+stampato**. Tre pagine in testa non appartengono all'accordo, quindi *indice PDF =
+pagina stampata + 3*, costante da capo a fondo. `reference/README.md` lo spiega per
+esteso, insieme al perche `ASR2025_Ufficiale_PiuSicurezza.pdf` serve a rileggere una
+tabella e non a confermarla.
+
+Le tabelle degli allegati **si leggono a video, pagina per pagina.** `pdftotext
+-layout` disallinea le colonne e ha gia prodotto una matrice sbagliata.
+
+I `.gitattributes` marcano PDF, PNG e XLSX come binari: sono prova, e una
+normalizzazione di fine riga che cambia un hash rende non verificabile la citazione
+che ci poggia sopra.

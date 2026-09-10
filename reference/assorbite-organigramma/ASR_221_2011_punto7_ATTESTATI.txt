@@ -1,0 +1,46 @@
+================================================================================
+ASSORBITO da Organigramma-sicurezza il 10 settembre 2026 (decisione 7, R1).
+--------------------------------------------------------------------------------
+DA DOVE VIENE  checkupformazione81/references/ASR_221_2011_punto7_ATTESTATI.txt
+COSA CONTIENE  gli elementi minimi dell'attestato sotto il regime abrogato, che
+               servono a giudicare gli attestati gia in archivio.
+NATURA         **sintesi operativa, non trascrizione** — lo dichiara da se.
+CITAZIONE      Accordo 21/12/2011 (Rep. Atti n. 221/CSR), Allegato A, punto 7
+               «Attestati» — pagina 10 su 19 del PDF in
+               fonti/Accordo_Formazione_Lavoratori_21-12-2011.pdf. Il numero di
+               pagina della Gazzetta non e leggibile nell'estrazione: i
+               marcatori compaiono solo sulle ultime tre pagine (46, 47, 48),
+               che sono le scansioni ruotate dell'Allegato 2 e restituiscono
+               silenzio. L'atto occupa le pagine 39-48 della GU n. 8
+               dell'11/01/2012.
+DIVERGENZE     confrontata col testo il 10/09/2026, tre scarti:
+               1. l'accordo chiede «dati anagrafici **e profilo professionale**
+                  del corsista»; la sintesi tiene solo i dati anagrafici;
+               2. l'accordo condiziona il rilascio alla **frequenza del 90%**
+                  delle ore, e per preposti e dirigenti anche al superamento
+                  della prova di verifica; la sintesi non lo dice;
+               3. la sintesi data il regime transitorio al **23/05/2026**.
+                  Questo repo usa il **19 maggio**: entrata in vigore
+                  19/05/2025 e fine del transitorio 19/05/2026 (migrazione
+                  0043 e reference/asr-2025-parte-vii.md). Le date di questo
+                  file **non si applicano**; resta scritto qui cosa dicevano e
+                  perche non valgono, come chiede G3 della decisione 7.
+               Per citare, si va al punto 7 dell'accordo. Questo file serve a
+               sapere cosa cercare.
+================================================================================
+
+ASR 21/12/2011 (Rep. Atti 221/CSR) — punto 7 "ATTESTATI"  [SINTESI OPERATIVA]
+Regime applicabile agli attestati emessi fino al 23/05/2026 (periodo transitorio).
+Testo integrale: references/accordi/ASR_221_2011_lavoratori_RAW.txt
+
+Elementi minimi richiesti all'attestato sotto il regime 2011:
+  - denominazione del soggetto formatore (ente o datore di lavoro abilitato);
+  - dati anagrafici del lavoratore;
+  - specifica del corso (tipologia, monte ore, settore/livello di rischio);
+  - periodo di svolgimento;
+  - firma del soggetto formatore;
+  - riferimento normativo dell'Accordo applicato.
+Validità nazionale dell'attestato.
+
+Nota: per gli attestati emessi dal 24/05/2025 si applica invece il punto 6 dell'ASR 2025
+(file ASR_59_2025_punto6_ATTESTAZIONI.txt).

@@ -1,0 +1,38 @@
+================================================================================
+ASSORBITO da Organigramma-sicurezza il 10 settembre 2026 (decisione 7, R1).
+--------------------------------------------------------------------------------
+DA DOVE VIENE  checkupformazione81/references/REG_CE_852_2004_HACCP.txt
+COSA CONTIENE  il principio europeo sulla formazione degli alimentaristi, e la
+               ragione per cui non ha ore: il regolamento non ne fissa, e
+               rimanda alla normativa regionale.
+NATURA         **DEDOTTO.** Il file lo dichiara da se: «RICOSTRUITO da fonte
+               ufficiale, non caricato come originale».
+CITAZIONE      **nessuna.** Il Regolamento (CE) 852/2004 **non e in fonti/**, e
+               non lo sono le leggi regionali a cui rimanda. Verificato il
+               10/09/2026.
+PERCHE ENTRA   non per essere applicato, ma per **tenere fuori** una materia che
+               altrimenti rientra da sola. La formazione HACCP non sta nel
+               D.Lgs. 81/2008 e non sta nell'ASR 17/04/2025: e un obbligo
+               diverso, con una fonte diversa e una disciplina che cambia da
+               regione a regione. Il motore delle scadenze non la calcola, e
+               questo file dice perche invece di lasciarlo dedurre — un cliente
+               dei settori alimentari (divisioni ATECO 10, 11, 56) che chiede
+               «e l'HACCP?» deve trovare una risposta scritta.
+COSA COMPORTA  nessuna riga di tabella, ne oggi ne quando il regolamento sara in
+               fonti/: senza la legge regionale della sede non c'e una durata da
+               scrivere.
+================================================================================
+
+REGOLAMENTO (CE) 852/2004 — Igiene dei prodotti alimentari (formazione alimentaristi)
+[NOTA: file RICOSTRUITO da fonte ufficiale, non caricato come originale dall'utente in questa sessione. Sostituire con il testo autentico se disponibile.]
+
+PRINCIPIO (Allegato II, Capitolo XII): i responsabili dell'industria alimentare devono
+assicurare che gli addetti che manipolano alimenti siano "controllati e/o addestrati e/o
+formati in materia d'igiene alimentare, in relazione al tipo di attivita'".
+Il regolamento NON fissa durate ne' cadenze: la disciplina di dettaglio (corsi, ore,
+periodicita', sostituzione del libretto sanitario) e' demandata alla NORMATIVA REGIONALE,
+che varia da regione a regione.
+
+USO NELLA SKILL: la formazione HACCP NON rientra nel D.Lgs. 81/08 ne' nell'ASR 17/04/2025;
+va trattata a parte, verificando la legge regionale applicabile alla sede del cliente.
+Compare nel CHECKUP solo come voce informativa per i settori alimentari (ATECO 10, 11, 56, ecc.).

@@ -1,0 +1,47 @@
+================================================================================
+ASSORBITO da Organigramma-sicurezza il 10 settembre 2026 (decisione 7, R1).
+--------------------------------------------------------------------------------
+DA DOVE VIENE  checkupformazione81/references/ASR_59_2025_punto6_ATTESTAZIONI.txt
+COSA CONTIENE  gli elementi minimi dell'attestato e il contenuto del fascicolo
+               del corso, sotto l'accordo vigente.
+NATURA         estratto ricopiato dal testo dell'accordo, non parafrasi.
+CITAZIONE      ASR 17/04/2025 (Rep. Atti n. 59/CSR), Parte I, punto 6
+               «Attestazioni» e punto 7 «Fascicolo del corso» — pagina «Pag. 9 a
+               136» del documento, che e la pagina 12 dell'estrazione
+               `pdftotext -layout` di fonti/ASR-170425.pdf. Verificato riga per
+               riga il 10/09/2026 contro quel testo.
+DIVERGENZA     il punto 6 combacia. Il punto 7 **no**: questa resa elenca «copia
+               degli attestati; materiale didattico; questionario di gradimento»,
+               che nell'accordo NON ci sono, e omette «progetto formativo e
+               programma del corso», che c'e. L'elenco vero e di cinque voci:
+               dati anagrafici dei partecipanti; registro presenze con firme;
+               elenco dei docenti con firme; progetto formativo e programma del
+               corso; verbale di verifica finale (paragrafo 4, parte I).
+               **Per il punto 7 si cita fonti/ASR-170425.pdf, non questo file.**
+               E il motivo per cui la regola «niente copia cieca» esiste: tre
+               voci inventate sarebbero entrate senza che nessuno le rileggesse.
+================================================================================
+
+ASR 17/04/2025 (Rep. Atti 59/CSR) — Parte I, punto 6 "ATTESTAZIONI"
+Fonte: references/accordi/ASR_59_2025_nuovo_accordo_RAW.txt
+Applicabile agli attestati emessi dal 24/05/2025.
+
+6 - ATTESTAZIONI
+Ai partecipanti ai corsi di formazione ed aggiornamento, che abbiano regolarmente
+frequentato il corso e superato la verifica finale, deve essere rilasciato dal soggetto
+formatore un attestato - unico per ciascun corso - contenente i seguenti elementi minimi:
+  a) denominazione del soggetto formatore;
+  b) dati anagrafici del partecipante (nome, cognome, codice fiscale);
+  c) tipologia di corso con riferimento normativo e durata;
+  d) modalità di erogazione del corso;
+  e) firma del legale rappresentante del soggetto formatore o suoi incaricati,
+     preferibilmente in formato digitale;
+  f) data e luogo.
+Gli attestati rilasciati ai sensi del presente accordo hanno validità su tutto il
+territorio nazionale.
+
+7 - FASCICOLO DEL CORSO
+Per ogni corso, il soggetto formatore custodisce/archivia (cartacea o elettronica) il
+"Fascicolo del corso" e lo conserva per almeno 10 anni. Contiene: dati anagrafici dei
+partecipanti; registro presenze con firme; elenco docenti con firme; verbali delle verifiche
+finali; copia degli attestati; materiale didattico; questionario di gradimento.

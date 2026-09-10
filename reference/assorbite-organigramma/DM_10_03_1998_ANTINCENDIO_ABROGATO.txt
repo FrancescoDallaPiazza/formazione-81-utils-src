@@ -1,0 +1,49 @@
+================================================================================
+ASSORBITO da Organigramma-sicurezza il 10 settembre 2026 (decisione 7, R1).
+--------------------------------------------------------------------------------
+DA DOVE VIENE  checkupformazione81/references/DM_10_03_1998_ANTINCENDIO_ABROGATO.txt
+COSA CONTIENE  il regime antincendio **prima** del 4 ottobre 2022: le ore per
+               rischio basso, medio ed elevato, e il fatto che allora
+               l'aggiornamento periodico obbligatorio non esistesse. Serve a
+               giudicare gli attestati antincendio emessi prima di quella data,
+               che in archivio sono la maggioranza.
+NATURA         **DEDOTTO.** Il file lo dichiara da se: «RICOSTRUITO da fonte
+               ufficiale, non caricato come originale».
+CITAZIONE      **nessuna.** Il DM 10 marzo 1998 **non e in fonti/**: c'e il
+               decreto che lo sostituisce (fonti/D.M. 02_09_2021.pdf) e non
+               quello sostituito. Verificato il 10/09/2026.
+               Le date di abrogazione che il file riporta — artt. 3 c. 1 lett.
+               f), 5, 6 e 7 caduti il 04/10/2022 con l'entrata in vigore del DM
+               02/09/2021, abrogazione completa il 29/10/2022 col DM 03/09/2021
+               — **non sono state verificate**, perche nessuno dei due decreti
+               citati per l'abrogazione totale e in fonti/.
+RISCONTRO      una cosa si legge davvero, ed e in reference/ore-fuori-dall-asr.md:
+               il DM 02/09/2021 e entrato in vigore il 4 ottobre 2022 (art. 8) e
+               il suo art. 7 c. 2 impone il primo aggiornamento entro cinque
+               anni dall'ultima formazione, con dodici mesi di grazia per chi
+               era gia oltre. Questo conferma la conseguenza pratica del file —
+               un attestato del regime 1998 resta valido ma da quel giorno
+               matura una scadenza — senza confermarne il testo.
+COSA COMPORTA  sotto A7 le tre durate (4/8/16 ore) e il «nessuna periodicita»
+               **non entrano in una tabella applicativa** da qui. Restano una
+               nota di lettura per chi guarda un attestato vecchio.
+================================================================================
+
+DM 10 MARZO 1998 — Criteri generali di sicurezza antincendio e gestione emergenza
+[REGIME STORICO — ABROGATO]
+[NOTA: file RICOSTRUITO da fonte ufficiale, non caricato come originale dall'utente in questa sessione. Sostituire con il testo autentico se disponibile.]
+
+STATO: gli artt. 3 c.1 lett. f), 5, 6 e 7 abrogati dal 04/10/2022 (entrata in vigore del
+DM 02/09/2021 "Decreto GSA"); il decreto è completamente abrogato dal 29/10/2022
+(DM 03/09/2021 "Minicodice").
+
+USO NELLA SKILL: serve solo per valutare attestati antincendio emessi PRIMA del 04/10/2022.
+Classificazione storica del rischio incendio e relativi corsi addetti:
+  - rischio BASSO: 4 ore
+  - rischio MEDIO: 8 ore
+  - rischio ELEVATO: 16 ore (con esame di idoneita' tecnica presso i VVF ove previsto)
+Sotto il DM 10/03/1998 NON era prevista una periodicita' obbligatoria di aggiornamento
+quinquennale (introdotta solo dal DM 02/09/2021).
+
+Per gli attestati emessi dal 04/10/2022 si applica DM_02_09_2021_ANTINCENDIO.txt
+(livelli 1/2/3 = 4/8/16h; aggiornamento quinquennale 2/5/8h).

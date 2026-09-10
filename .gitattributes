@@ -1,0 +1,11 @@
+# Le fonti in reference/fonti/ sono prova, e la prova si cita byte per byte.
+# Nessuna normalizzazione di fine riga puo toccarle: un hash che cambia
+# rende non verificabile la citazione che ci poggia sopra.
+*.pdf   binary
+*.png   binary
+*.xlsx  binary
+
+# Le trascrizioni sono testo e restano tali.
+*.md    text
+*.txt   text
+*.js    text
