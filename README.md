@@ -97,6 +97,15 @@ La cartella e l'ingresso della libreria: **niente entra in un `.js` se non si le
 qui**, e chi codifica una regola la cerca in `reference/` prima di scriverla. Se la
 citazione non si trova, la regola non entra.
 
+**Perche 26 MB di PDF stanno in una libreria di tre `.js`.** E una domanda giusta e
+la risposta e una decisione, non una svista: **presa da Francesco il 10 settembre
+2026**, misura alla mano. Dei 26 MB il generatore ne apre 1,6 — le trascrizioni, le
+due tavole ISTAT e i due ritagli di Gazzetta. L'alternativa scartata era lasciare i
+17 PDF in AppFormazione con un puntatore preciso: piu leggera, ma la prova sarebbe
+stata in un altro repo. Ha prevalso il principio opposto — **la prova sta accanto a
+cio che prova**, e un clone pesante e il prezzo. Chi volesse tornare sulla scelta
+riapra la decisione 7, non questo README.
+
     reference/README.md      l'indice, e la gerarchia delle sei fonti
     reference/*.md           20 trascrizioni: riportano il testo, non una parafrasi
     reference/fonti/         17 PDF, 2 tavole ISTAT (.xlsx), 2 ritagli di GU (.png)
