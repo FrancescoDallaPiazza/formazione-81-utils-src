@@ -183,3 +183,159 @@ clienti di questi due settori — che si riconoscono dall'ATECO, sezione I — e
 un termine di trenta giorni che oggi nessuna lista mostra. E una voce nuova per le
 decisioni aperte, non una regola pronta: prima va deciso se il motore debba
 guardare anche `rapporti_lavoro.data_assunzione`.
+
+## Art. 16 — la delega di funzioni: cosa trasferisce, e cosa NON nomina
+
+Aperto l'11 settembre 2026 su una domanda precisa: **al datore di lavoro delegato
+ex art. 16 spettano gli obblighi formativi del DATORE o quelli del DIRIGENTE?**
+Tre corsie erano in tre posti diversi — una l'aveva decisa e messa in produzione,
+una l'aveva aperta, una il ruolo non ce l'ha — e nessuna sapeva dirlo citando.
+
+Pagina 23 di 202 del titolo I. **La lettera e) e nuova**: aggiunta dall'art. 5 del
+D.L. 31 ottobre 2025 n. 159, convertito con L. 29 dicembre 2025 n. 198, in vigore
+dal **31 dicembre 2025**.
+
+> 1. La delega di funzioni da parte del datore di lavoro, ove non espressamente
+> esclusa, e ammessa con i seguenti limiti e condizioni:
+>
+> a) che essa risulti da **atto scritto recante data certa**;
+> b) che il delegato **possegga tutti i requisiti di professionalita ed
+> esperienza** richiesti dalla specifica natura delle funzioni delegate;
+> c) che essa attribuisca al delegato **tutti i poteri di organizzazione,
+> gestione e controllo** richiesti dalla specifica natura delle funzioni delegate;
+> d) che essa attribuisca al delegato **l'autonomia di spesa** necessaria allo
+> svolgimento delle funzioni delegate;
+> e) che la delega sia **accettata dal delegato per iscritto**.
+>
+> 2. Alla delega di cui al comma 1 deve essere data adeguata e tempestiva
+> pubblicita.
+>
+> 3. La delega di funzioni **non esclude l'obbligo di vigilanza in capo al datore
+> di lavoro** in ordine al corretto espletamento da parte del delegato delle
+> funzioni trasferite. L'obbligo di cui al primo periodo si intende assolto in
+> caso di adozione ed efficace attuazione del modello di verifica e controllo di
+> cui all'articolo 30, comma 4.
+>
+> 3-bis. Il soggetto delegato puo, a sua volta, previa intesa con il datore di
+> lavoro delegare specifiche funzioni in materia di salute e sicurezza sul lavoro
+> alle medesime condizioni di cui ai commi 1 e 2. [...] Il soggetto al quale sia
+> stata conferita la delega di cui al presente comma **non puo, a sua volta,
+> delegare** le funzioni delegate.
+
+**La cosa che l'articolo non dice, ed e la prima risposta: l'art. 16 non nomina
+mai la formazione.** Non come obbligo che discende dalla delega, e nemmeno come
+requisito presupposto. Cio che il delegato deve **gia possedere** e
+«professionalita ed esperienza» (lett. b) — che il decreto non definisce e che non
+e il corso.
+
+Quindi l'obbligo formativo del delegato, se c'e, **non nasce qui**: nasce
+dall'art. 37 c. 7, e solo attraverso la qualifica che gli si riconosce. La
+domanda «datore o dirigente?» non e una sfumatura: e *tutta* la domanda.
+
+## Art. 37 c. 7 — a chi spetta la formazione di datore e dirigente
+
+Pagina 46 di 202. Comma modificato dalla L. 17 dicembre 2021 n. 215 (conversione
+del D.L. 146/2021).
+
+> 7. **Il datore di lavoro, i dirigenti e i preposti** ricevono un'adeguata e
+> specifica formazione e un aggiornamento periodico **in relazione ai propri
+> compiti** in materia di salute e sicurezza sul lavoro, secondo quanto previsto
+> dall'accordo di cui al comma 2, secondo periodo.
+
+**Tre soggetti nominati, e il delegato non e fra loro.** Non per esclusione: per
+silenzio. Il comma non lo nomina ne per includerlo ne per escluderlo, e rimanda
+all'accordo Stato-Regioni per il contenuto — che a sua volta parla di datore di
+lavoro e dirigente, non di delegato.
+
+## Le due definizioni che decidono, e l'articolo che le estende
+
+Art. 2 c. 1, lett. b) e d). Le parti che contano sono in grassetto.
+
+> b) «datore di lavoro»: il soggetto titolare del rapporto di lavoro con il
+> lavoratore o, **comunque, il soggetto che**, secondo il tipo e l'assetto
+> dell'organizzazione nel cui ambito il lavoratore presta la propria attivita,
+> **ha la responsabilita dell'organizzazione stessa o dell'unita produttiva in
+> quanto esercita i poteri decisionali e di spesa** [...]
+>
+> d) «dirigente»: persona che, in ragione delle competenze professionali e di
+> poteri gerarchici e funzionali adeguati alla natura dell'incarico conferitogli,
+> **attua le direttive del datore di lavoro** organizzando l'attivita lavorativa
+> e vigilando su di essa;
+
+E l'art. 299, che dice che la qualifica segue **i poteri esercitati** e non il
+nome dell'atto:
+
+> 1. Le posizioni di garanzia relative ai soggetti di cui all'articolo 2, comma 1,
+> lettere b), d) ed e), gravano **altresi su colui il quale, pur sprovvisto di
+> regolare investitura, eserciti in concreto i poteri giuridici** riferiti a
+> ciascuno dei soggetti ivi definiti.
+
+## La risposta, e il suo limite
+
+**Il testo non dice mai «il delegato e un datore di lavoro».** Chi cercasse quella
+frase non la trova, e va detto prima di tutto il resto: **espressamente, la norma
+non decide.**
+
+Ma le tre citazioni qui sopra non sono neutre fra le due letture, e puntano da una
+parte sola:
+
+| | cosa serve per essere | cosa da la delega (art. 16) |
+|---|---|---|
+| **datore** (art. 2 b) | responsabilita dell'organizzazione **in quanto esercita i poteri decisionali e di spesa** | lett. c) tutti i poteri di organizzazione, gestione e controllo · lett. d) **l'autonomia di spesa** |
+| **dirigente** (art. 2 d) | **attua le direttive del datore di lavoro** | nessuna direttiva da attuare: la delega **trasferisce** le funzioni, non le esegue |
+
+E l'art. 299 chiude il passaggio: le posizioni di garanzia gravano su chi
+**esercita in concreto** quei poteri. Un delegato ex art. 16 li esercita per
+definizione, perche senza di essi la delega non e valida.
+
+**Conclusione: la lettura «datore» e quella che il testo sostiene**, per
+convergenza di tre articoli e non per una frase sola. Resta una *lettura*, non una
+citazione — e la differenza e la stessa che questa cartella impone dappertutto.
+
+### Le due cose che il testo lascia aperte davvero
+
+1. **La delega parziale.** L'art. 16 parla sempre di «funzioni delegate» e di
+   poteri «richiesti dalla specifica natura delle funzioni delegate»: la delega
+   puo coprire una parte. Un delegato che riceve una fetta di funzioni non diventa
+   datore per tutto il resto, e il decreto non dice a che punto la fetta diventi
+   abbastanza grande. Un modello con una figura sola — delegato «pieno» — sta
+   assumendo il caso totale senza dirlo.
+2. **Quando la formazione deve esserci.** Se il delegato e un datore ai fini
+   dell'art. 37 c. 7, gli si applicano i termini del datore, compresa la prima
+   applicazione dell'ASR 2025. Ma l'art. 16 lett. b) chiede professionalita ed
+   esperienza **al momento della delega**, e un delegato formato dopo soddisfa il
+   c. 7 mentre la validita della delega resta una questione a parte. Sono due
+   orologi, e il decreto ne fa scattare uno solo.
+
+### Come e stato verificato il testo
+
+Due estrazioni indipendenti, confrontate a macchina sui periodi che decidono:
+
+- **A** — il testo coordinato Amato/Di Fiore edizione gennaio 2026, `pdftotext
+  -layout` sul PDF (quello descritto in testa a questo file, fuori dal repo);
+- **B** — `tussl.it`, lettura indipendente articolo per articolo.
+
+| passo | parole A | parole B | esito |
+|---|---:|---:|---|
+| art. 37 c. 7 | 42 | 42 | **identici parola per parola** |
+| art. 16 c. 1 | 97 | 97 | 2 differenze, nessuna di parola |
+| art. 2 c. 1 lett. d) | 35 | 34 | 1 differenza, nessuna di parola |
+| art. 299 | 42 | 42 | 1 differenza, nessuna di parola |
+
+Le differenze sono **tre accentate che `pdftotext` non rende**
+(`professionalita`, `l'attivita`, `altresi`) — la stessa classe gia vista sul DPR
+177 — piu il prefisso `d) «` che la seconda estrazione non riporta. Nessuna parola
+diversa in nessuno dei quattro passi.
+
+**Una divergenza vera, e vale la pena tenerla.** In art. 16 c. 1 la lettera d)
+finisce con un **punto** nel testo coordinato e con un **punto e virgola** su
+tussl. E il residuo dell'aggiunta della lettera e) nel dicembre 2025: prima la d)
+era l'ultima e chiudeva l'elenco. Segno che l'edizione coordinata ha inserito la
+lettera nuova senza ritoccare la punteggiatura della precedente. Non cambia il
+senso, e resta scritto qui perche e il tipo di dettaglio che, non annotato, la
+prossima volta fa dubitare della fonte sbagliata.
+
+**Limite dichiarato:** anche qui, come per il DPR 177, non e stata fatta la
+lettura a video pagina per pagina che questa cartella impone per le tabelle —
+manca il renderer su questa macchina. Qui non ci sono tabelle: e prosa, e il
+doppio riscontro programmatico ha preso quel posto.
