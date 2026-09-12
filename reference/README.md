@@ -31,6 +31,7 @@ staging.
 | [`asr-2025-aggiornamenti.md`](asr-2025-aggiornamenti.md) | Parte III: periodicita e monte ore di aggiornamento, figura per figura |
 | [`asr-2025-parte-vii.md`](asr-2025-parte-vii.md) | Parte VII: entrata in vigore, termini transitori, riconoscimento dei corsi gia erogati, abrogazioni |
 | [`asr-2025-riconoscimento-pregresso.md`](asr-2025-riconoscimento-pregresso.md) | le due tabelle della Parte VII, pagine 113 e 114: quando l'attestato gia fatto vale ancora, per il datore di lavoro RSPP (art. 34) e per RSPP/ASPP (art. 32) — cella per cella, con i refusi lasciati dove stanno |
+| [`asr-2025-attrezzature-durate-varianti.md`](asr-2025-attrezzature-durate-varianti.md) | Parte II punto 8.3: i moduli e le durate delle abilitazioni dell'art. 73, e perche una durata sola non basta — 8.3.1 PLE, 8.3.3 gru a torre, 8.3.4 carrelli, 8.3.7 escavatori. Sostituisce l'accordo del 2012, che la Parte VII abroga |
 | [`asr-2025-attrezzature-nuove.md`](asr-2025-attrezzature-nuove.md) | Parte II punti 8.3.9, 8.3.10 e 8.3.11 e Allegato II: le ore delle tre abilitazioni nuove e cosa e un carroponte |
 | [`asr-2025-allegato-iv-ateco.md`](asr-2025-allegato-iv-ateco.md) | Allegato IV: la classe di rischio di ogni divisione ATECO, i due errori di stampa e le tre divisioni che non classifica |
 | [`ore-fuori-dall-asr.md`](ore-fuori-dall-asr.md) | antincendio, primo soccorso e segnaletica stradale: le ore che stanno nei decreti e non nell'accordo |
