@@ -168,6 +168,16 @@ Questo e il terzo esito di R4 della decisione 7 — **non verificabile**, che no
 «invariato». La struttura combacia con quella che l'ASR 2025 descrive, ma
 combaciare con il testo nuovo non e leggere il vecchio.
 
+**E il 12 settembre 2026 il testo nuovo e stato letto davvero**, e i tre numeri ci
+sono: 28, 48 e 24 ore stanno nella Parte II ai punti 5.2, 5.3 e 5.4, pagine 23, 26
+e 31, trascritti in
+[`asr-2025-parte-ii-durate-iniziali.md`](asr-2025-parte-ii-durate-iniziali.md).
+**Questa riga non cambia lo stesso.** Da li si cita la durata di un corso di
+**oggi**; un attestato rilasciato fra il 2016 e il 2024 resta da giudicare
+sull'accordo del 2016, che continua a non leggersi. Che i numeri coincidano e un
+indizio e non una lettura — la stessa distinzione che tre righe piu sotto si fa
+per l'antincendio del 1998.
+
 ### Antincendio prima del 4 ottobre 2022 — **dedotto**
 
 Il quadro storico dice: rischio basso 4 ore, medio 8, elevato 16, e **nessuna

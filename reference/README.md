@@ -27,6 +27,7 @@ staging.
 | file | cosa contiene |
 | --- | --- |
 | [`asr-2025-crediti.md`](asr-2025-crediti.md) | Allegato III dell'ASR 2025: chi e esonerato da cosa, matrice per matrice |
+| [`asr-2025-parte-ii-durate-iniziali.md`](asr-2025-parte-ii-durate-iniziali.md) | Parte II: le durate della formazione **iniziale**, punto per punto e con la pagina — lavoratori, preposti, dirigenti, datore di lavoro, modulo cantieri, DL-RSPP e i tre moduli RSPP/ASPP. Tutte minime, e tutte durate di corso |
 | [`asr-2025-aggiornamenti.md`](asr-2025-aggiornamenti.md) | Parte III: periodicita e monte ore di aggiornamento, figura per figura |
 | [`asr-2025-parte-vii.md`](asr-2025-parte-vii.md) | Parte VII: entrata in vigore, termini transitori, riconoscimento dei corsi gia erogati, abrogazioni |
 | [`asr-2025-riconoscimento-pregresso.md`](asr-2025-riconoscimento-pregresso.md) | le due tabelle della Parte VII, pagine 113 e 114: quando l'attestato gia fatto vale ancora, per il datore di lavoro RSPP (art. 34) e per RSPP/ASPP (art. 32) — cella per cella, con i refusi lasciati dove stanno |
