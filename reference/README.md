@@ -39,6 +39,7 @@ staging.
 | [`faq-asr-2025.md`](faq-asr-2025.md) | le risposte delle FAQ su cui il motore si appoggia, e i due punti in cui le fonti non concordano |
 | [`dlgs-81-2008-articoli-citati.md`](dlgs-81-2008-articoli-citati.md) | il decreto che il progetto citava quindici volte senza averlo mai letto: RLS, credito formativo, allegato XXI, e la delega di funzioni dell'art. 16 — che la formazione non la nomina mai, quindi l'obbligo del delegato dipende tutto da quale qualifica gli si riconosce |
 | [`dpr-177-2011-ambienti-confinati.md`](dpr-177-2011-ambienti-confinati.md) | il DPR sugli ambienti confinati, che il progetto citava senza averlo letto: la formazione e di «tutto il personale, ivi compreso il datore di lavoro», il preposto e nominato solo per l'esperienza triennale, e le durate le rimanda all'accordo Stato-Regioni |
+| [`reg-ue-2020-1149-diisocianati.md`](reg-ue-2020-1149-diisocianati.md) | la voce 74 dell'allegato XVII REACH: obbligo di formazione prima dell'uso dal 24 agosto 2023, i tre livelli scelti dall'uso e non dalla figura, rinnovo **almeno ogni cinque anni** — e le ore, che la fonte **non stabilisce** |
 | [`interpello-1-2025-rischio-per-mansione.md`](interpello-1-2025-rischio-per-mansione.md) | Interpello MLPS 1/2025: la citazione ministeriale dell'ancoraggio ad ATECO 2007, e il rischio che si sposta per mansione nei due versi — sotto e sopra la classe dell'azienda |
 | [`aggiornamento-fonti.md`](aggiornamento-fonti.md) | la regola del controllo mensile sull'81/2008, che si muove: dove si guarda, cosa si confronta, cosa si fa quando cambia |
 | [`quadro-storico-ore-pregresse.md`](quadro-storico-ore-pregresse.md) | quante ore valevano prima dell'ASR 2025, figura per figura, per giudicare gli attestati gia in archivio: sette righe con il punto e la pagina, tre marcate perche non si leggono |
@@ -131,6 +132,7 @@ gia frequentato sia conforme, e quindi riconosciuto.
 | `Accordo-formazione-attrezzature-22-2-2012.pdf` | attrezzature che richiedono abilitazione | 53/CSR |
 | `Accordo-Stato-Regioni-25-luglio-2012-att-Rep-153-CSR.pdf` | adeguamento e linee applicative | 153/CSR |
 | `Accordo_Stato_Regioni_formazione_RSPP_7-7-16.pdf` | RSPP e ASPP | 128/CSR |
+| `REG-UE-2020-1149-diisocianati.pdf` | diisocianati, voce 74 dell'allegato XVII REACH | GU L 252/26 |
 
 Gli ultimi due sono scansioni senza livello di testo: `pdftotext` non ne cava
 niente e vanno letti a video. Verificato il 10 settembre 2026: **25 byte** dal
