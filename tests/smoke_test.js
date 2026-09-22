@@ -9,6 +9,7 @@
 'use strict';
 
 const { classificaRischio, classificaClienteMultiSede } = require('../raccordo_ateco');
+const { aggiornamentoPerRuolo } = require('../aggiornamento_per_ruolo');
 
 const CASI = [
   // [codice ATECO, livello atteso, descrizione/fonte]
@@ -65,6 +66,19 @@ const empty = classificaRischio('');
 const okEmpty = !!empty.errore;
 if (okEmpty) pass++; else fail++;
 console.log(`  ${okEmpty ? '✅' : '❌'}  '' → ${empty.errore ? 'errore (corretto)' : 'NON gestito!'}`);
+
+// Aggiornamento: il monte ore sta sul RUOLO, non sul corso.
+// ASPP e RSPP frequentano lo stesso Modulo A + Modulo B e aggiornano diverso.
+console.log('\n--- Test aggiornamento per ruolo ---');
+for (const [ruolo, ore] of [['aspp', 20], ['rspp', 40], ['preposto', 6]]) {
+  const r = aggiornamentoPerRuolo(ruolo);
+  const ok = r && r.ore === ore;
+  if (ok) pass++; else fail++;
+  console.log(`  ${ok ? '✅' : '❌'}  ${ruolo.padEnd(9)} -> ${r ? r.ore : 'NULL'} ore (atteso ${ore})`);
+}
+const okBiennale = aggiornamentoPerRuolo('preposto').periodicita_mesi === 24;
+if (okBiennale) pass++; else fail++;
+console.log(`  ${okBiennale ? '✅' : '❌'}  preposto  -> cadenza biennale (24 mesi)`);
 
 console.log(`\n${'='.repeat(45)}`);
 console.log(`  ${pass} passed | ${fail} failed`);

@@ -12,6 +12,7 @@ Pensato per essere clonato dalle skill di Claude di Overall Group (`kitformasubi
 |------|-------------|
 | `allegato_iv_asr2025.js` | Tabella **Allegato IV** ASR 17/04/2025 — 88 divisioni ATECO 2007 classificate in BASSO/MEDIO/ALTO + tabella durate formazione |
 | `raccordo_ateco.js` | Funzione `classificaRischio(codice)` — accetta ATECO 2007/2022/2025 e risolve il livello di rischio. Funzione `classificaClienteMultiSede(codici)` — aggrega più codici prendendo il più alto |
+| `aggiornamento_per_ruolo.js` | Il **monte ore di aggiornamento**, ASR 17/04/2025 Parte III: dieci ruoli, con la citazione per riga. Keyed sul **ruolo** e non sul corso, perché l'accordo fissa le ore «in base al ruolo svolto» — stesso Modulo A+B, 20 ore per un ASPP e 40 per un RSPP |
 | `raccordo_istat_2025.js` | Le **eccezioni misurate** del raccordo ATECO 2025 -> 2022/2007: i 9 codici su 1.290 dove prendere le prime due cifre da la classe sbagliata, i 21 ambigui da segnalare e 1 senza corrispondenza. Generato dalle tavole ISTAT, con la provenienza in testa e la citazione riga per riga |
 | `tests/smoke_test.js` | Smoke test rapido sui casi normativi noti (Istruzione=MEDIO da Interpello MLPS 1/2025, Costruzioni=ALTO, Ristorazione=BASSO, ecc.) |
 

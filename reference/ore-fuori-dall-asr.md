@@ -149,3 +149,46 @@ gestionale l'ha sempre calcolata, ma la forma della norma e quella del monte ore
 La formazione di questo decreto **non sostituisce** quella dell'art. 37, punto 1
 dell'allegato II: e integrativa. Chi ha solo il corso segnaletica non ha la
 formazione lavoratori.
+
+## Il passaggio di livello e il passaggio di gruppo: non ci sono
+
+Verificato il 22 settembre 2026, sulle nostre copie, e ricontrollato da una
+seconda lettura indipendente. La domanda arrivava dal catalogo di un ente
+accreditato, che vende tre voci di passaggio antincendio (1->2 a 4 ore, 1->3 a
+12, 2->3 a 8) e una di primo soccorso (4 ore). **Nessuna delle quattro ha una
+riga da citare: sono ore di listino.**
+
+**Antincendio.** L'allegato III del DM 2 settembre 2021 si esaurisce nei punti
+3.1 e 3.2.1-3.2.6, pagine 21-25 di 59, e da sei corsi: 1/2/3-FOR e 1/2/3-AGG.
+Ogni punto di livello chiude nello stesso modo — «i corsi di formazione e i corsi
+di aggiornamento per gli addetti operanti nelle sopra riportate attivita devono
+essere basati sui contenuti e la durata riportati nei punti 3.2.5 e 3.2.6 per i
+corsi di tipo N» — e rimanda al corso intero, mai a un differenziale. L'art. 7,
+disposizioni transitorie, copre solo i corsi gia programmati col DM 10 marzo 1998
+e il primo aggiornamento. Cercati a vuoto su tutto il PDF: `passaggio`,
+`passare`, `transizione`, `integrativ`, `elevazion`, `upgrade`, `livello
+superiore`, `livello inferiore`, `equipollen`, `modulo aggiuntivo`.
+
+L'unica riga che qualcuno tirera fuori e il **punto 3.2.1 comma 3, pagina 21**:
+
+> I contenuti previsti nel presente allegato possono essere oggetto di **adeguata
+> integrazione** in relazione a specifiche situazioni di rischio.
+
+Non serve, e va saputo perche: e un'integrazione di **contenuti** dentro il
+livello gia assegnato, per situazioni di rischio particolari. Non nomina i
+livelli, non da ore, non mette in relazione due corsi. Chi sale di livello
+frequenta il corso del livello nuovo, intero.
+
+**Primo soccorso.** Il DM 388/2003 ha lo stesso silenzio e la stessa struttura:
+l'art. 3 c. 3 manda il gruppo A all'allegato 3 (16 ore) e il c. 4 i gruppi B e C
+all'allegato 4 (12 ore), come due percorsi interi e alternativi. Il c. 5 prevede
+solo la ripetizione triennale «almeno per quanto attiene alla capacita di
+intervento pratico». Il «piu elevato» dell'art. 1 c. 2 classifica l'azienda che
+svolge attivita di gruppi diversi, non fa passare di gruppo una persona gia
+formata.
+
+**Il contrasto che rende la conclusione leggibile** sta due sezioni piu su, nella
+segnaletica stradale: li il percorso differenziale **esiste** ed e scritto — 4
+ore per il preposto che ha gia il corso da lavoratore, punto 6.2 ultimo
+capoverso. Quando il legislatore vuole un ponte fra due percorsi lo scrive e lo
+quantifica. Nel DM 2021 e nel DM 388 non l'ha fatto.

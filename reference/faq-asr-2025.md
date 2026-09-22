@@ -131,20 +131,48 @@ confinati e attrezzature:
 E la regola che il motore applica ovunque, e che il confronto con lo scadenzario
 del gestionale ha riprodotto su 4.678 coppie.
 
-## Nessuna integrazione a posteriori
+## Nessuna integrazione a posteriori — ma solo per gli ambienti confinati
 
-FAQ interregionali 2025, n. 22. La domanda era se un corso previgente piu breve
-di quello richiesto possa essere riconosciuto integrando le ore mancanti:
+FAQ interregionali del 31 luglio 2025, n. 22, **pagina stampata 7 di 19**. La
+domanda era se un corso previgente piu breve di quello richiesto possa essere
+riconosciuto integrando le ore mancanti:
 
 > E possibile accettare i corsi gia erogati solo se completamente conformi ai
 > contenuti, **non e prevista l'integrazione**.
 
-E la risposta piu vicina che le fonti danno alla domanda «le ore di un ciclo di
-aggiornamento lasciato scadere contano sul ciclo nuovo?», che nessuno dei tre
-documenti affronta direttamente. Cercando «tardivo», «scaduto», «omesso»,
+**Il perimetro e stretto, e il titolo di questa sezione lo nascondeva.** Corretto
+il 22 settembre 2026. Il quesito 22 non sta per conto suo: sta nella sezione
+aperta a tutta riga fra la risposta al 18 e il quesito 19 — «Formazione dei
+lavoratori, datori di lavoro e lavoratori autonomi che operano in **ambienti
+sospetti di inquinamento o confinati**» — che copre i quesiti 19-23 e si chiude
+prima del 24. Le «12 ore» che la domanda cita sono quelle del corso ambienti
+confinati, **Parte II punto 7**, non le 4-8-12 della formazione specifica dei
+lavoratori: lo dice il quesito 19 della stessa sezione, che nomina «il corso di
+formazione di cui alla parte II, punto 7».
+
+La riformulazione del **27 marzo 2026** lo mette dentro il testo della domanda,
+al quesito n. 28:
+
+> Qualora i contenuti del corso **per lavoratori, ai datori di lavoro e ai
+> lavoratori autonomi che operano in ambienti sospetti di inquinamento o
+> confinati** precedentemente erogato [...]
+
+Quindi la FAQ 22 dice «niente integrazione» sul **riconoscimento di un corso
+pregresso per ambienti confinati**, e non e la regola generale che il titolo di
+questa sezione faceva sembrare fino al 22 settembre 2026. In particolare **non
+risponde sul lavoratore che cambia mansione e sale di classe di rischio**: quello
+e un caso che l'accordo riconosce come formazione a se — Parte III punto 1.1,
+pagina 81, «nell'aggiornamento non e compresa la formazione relativa al
+trasferimento o cambiamento di mansioni» — e di cui **nessuna fonte quantifica le
+ore**.
+
+E comunque la risposta piu vicina che le fonti danno alla domanda «le ore di un
+ciclo di aggiornamento lasciato scadere contano sul ciclo nuovo?», che nessuno
+dei tre documenti affronta direttamente. Cercando «tardivo», «scaduto», «omesso»,
 «decorso il termine» e «mancato aggiornamento» in accordo e FAQ non si trova
 niente: il caso non e contemplato. La lettura prudente e che si riparta da zero,
-ma e una lettura, e riguarda 78 persone.
+ma e una lettura — e adesso si sa che poggia su una FAQ scritta per un altro
+corso. Riguarda 78 persone.
 
 ## Quesito 57 — il rischio si svincola dall'ATECO, e decide l'e-learning
 
