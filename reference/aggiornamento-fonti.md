@@ -78,7 +78,7 @@ migrazioni e le trascrizioni citano, e va tenuta insieme a loro.
 | art. 45 | primo soccorso, e il c. 2 che un giorno sostituira il DM 388/2003 |
 | art. 46 | antincendio, e il rinvio al DM 2 settembre 2021 |
 | art. 71 c. 7 | uso delle attrezzature riservato a incaricati formati |
-| art. 73 c. 4 e c. 5 | attrezzature: il c. 4 regge il transpallet, il c. 5 le abilitazioni dell'accordo |
+| art. 73 c. 1, 4 e 5 | attrezzature: il c. 1 regge ogni attrezzatura, transpallet compreso; il c. 4 quelle dell'art. 71 c. 7 (il transpallet solo se il DVR ce lo mette: e una lettura); il c. 5 le abilitazioni dell'accordo |
 | art. 77 | DPI e addestramento periodico, di cui la norma non fissa la cadenza |
 | art. 82 | lavori elettrici, PES PAV PEI |
 | art. 97 c. 3-ter | il modulo cantieri del datore di lavoro dell'impresa affidataria |

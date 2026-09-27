@@ -393,8 +393,11 @@ Pagina 24 di 202. La lett. a e stata modificata dal D.L. 4 maggio 2023 n. 48
 Tre verbi diversi per tre atti diversi: il medico competente si **nomina**, gli
 addetti all'emergenza si **designano** («preventivamente»), il preposto si
 **individua**. L'obbligo e «del datore di lavoro **e dei dirigenti**», secondo le
-attribuzioni: una lettera di designazione o di individuazione puo firmarla un
-dirigente che ne abbia la competenza. La nomina dell'RSPP no (art. 17).
+attribuzioni: la nomina del medico e l'individuazione del preposto puo firmarle un
+dirigente che ne abbia la competenza. La designazione dell'RSPP no (art. 17).
+Per gli addetti all'emergenza l'art. 43 c. 1 e il DM 2/9/2021 art. 4 nominano
+**solo «il datore di lavoro»**: che un dirigente possa firmare quelle
+designazioni in forza dell'art. 18 e una **deduzione**, non una lettura.
 
 ## Art. 26 c. 8-bis — il preposto negli appalti: si indica, non si individua
 
