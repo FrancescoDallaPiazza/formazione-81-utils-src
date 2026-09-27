@@ -16,6 +16,28 @@ MISURATO IL    27/05/2026 dalla skill; non riverificato all'assorbimento.
                Si rimisura aprendo l'atto di ciascuna Regione della matrice.
 ================================================================================
 
+## Dove si verifica lo stato
+
+Dal 27 settembre 2026 ogni atto di questo file e una norma del **Database Normativo
+Sicurezza** di Overall, verificata alla fonte con la stessa cadenza delle altre norme
+(controllo settimanale, verifica mensile). La data «MISURATO IL» qui sopra dice quando e
+stato scritto questo testo; **lo stato di oggi lo dice il database**:
+
+    node controlla.js <ID>     # dalla copia pubblica overall-database-normativo-sicurezza-export
+
+| Regione / PA | ID nel database |
+| --- | --- |
+| Veneto (FAQ regionali) | S-016 |
+| Lombardia | S-017, S-018, S-019 |
+| Piemonte | S-020 |
+| Emilia-Romagna | S-021 |
+| Sicilia | S-022 |
+| P.A. Bolzano | S-023 |
+| tutte le altre (nessun atto; Veneto per gli atti) | S-024 |
+
+Quando la verifica trova un atto nuovo o cambiato, si corregge **questo file** con la
+data, e il database registra l'azione.
+
 ## Cosa va saputo prima di usarlo
 
 Quattro cose trovate all'assorbimento, il 27 settembre 2026. Nessuna e stata
