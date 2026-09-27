@@ -49,6 +49,13 @@ il documento. Nel repo sta quello che si legge:
    accetta il resume (`curl -C -` fallisce con 33): va ripetuta intera, non
    ripresa. A scaricamento finito, `pdfinfo` deve dire 1.400 pagine e passa; se
    dice «Couldn't read xref table» il file e troncato.
+   **Anche se l'edizione e la stessa**, guardare su normattiva la data «Testo in
+   vigore dal» degli articoli della lista. Il 27 settembre 2026 l'edizione
+   dichiarata era ancora gennaio 2026, ma l'art. 37 c. 5 era stato sostituito
+   dalla L. 11 marzo 2026 n. 34, in vigore dal 7 aprile 2026. Il controllo
+   sull'edizione da solo non l'avrebbe visto: il coordinamento esce ogni sei
+   mesi, le leggi no. La pagina dell'articolo si prende con
+   `https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81~artNN`.
 4. **Leggere solo la lista qui sotto**, non le 1.466 pagine, cercando le note di
    modifica con una data posteriore all'ultima lettura.
 5. **Trascrivere quello che e cambiato** in `dlgs-81-2008-articoli-citati.md`,
@@ -78,6 +85,23 @@ migrazioni e le trascrizioni citano, e va tenuta insieme a loro.
 | art. 98 | coordinatori per la sicurezza |
 | art. 111 | lavori in quota |
 | art. 136 e allegato XXI | ponteggi e lavori su funi |
+
+Dal 27 settembre 2026 anche gli articoli su cui poggiano le lettere d'incarico di
+AppOverall:
+
+| articolo | cosa regge |
+| --- | --- |
+| art. 16 | la delega di funzioni: forma, requisiti, subdelega |
+| art. 17 c. 1 | la designazione dell'RSPP non si delega |
+| art. 18 c. 1 lett. a, b, b-bis | nominare il medico, designare gli addetti all'emergenza, individuare il preposto |
+| art. 26 c. 8-bis | il preposto indicato al committente negli appalti |
+| art. 31 c. 1 | il servizio di prevenzione, organizzato o incaricato |
+| art. 37 c. 5 | l'addestramento e il suo registro (sostituito dalla L. 34/2026) |
+| art. 43 c. 1-3 | la designazione degli addetti all'emergenza e il rifiuto per giustificato motivo |
+| art. 47, art. 50 c. 1 lett. c | l'RLS eletto o designato, e le designazioni su cui e consultato |
+| art. 90 c. 3-7 | i coordinatori, designati dal committente |
+| art. 116 | i lavori su funi e la loro sorveglianza |
+| DM 2/9/2021 art. 4 | la designazione degli addetti antincendio |
 
 Sul c. 2 dell'art. 45 c'e una cosa da guardare ogni volta con attenzione
 particolare: **il giorno in cui esce il decreto attuativo che sostituisce il DM
