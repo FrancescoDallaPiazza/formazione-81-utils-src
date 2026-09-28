@@ -106,6 +106,11 @@ verificare**. Restano aperte finche qualcuno non trascrive la fonte.
   la fonte di ogni domanda «si puo fare in e-learning?», e oggi si risponde da FAQ.
 - **D.Lgs. 213/2025**: nessuna occorrenza. **L. 34/2026**: citata solo per l'art. 37 c. 5;
   gli altri contenuti che le skill le attribuiscono non sono stati letti.
+- **Allegato II del D.Lgs. 81/08** (casi in cui il datore di lavoro puo svolgere
+  direttamente i compiti del servizio di prevenzione e protezione: limiti per settore e
+  numero di lavoratori, art. 34 c. 1): non trascritto. `dlgs-81-2008-articoli-citati.md`
+  riporta l'art. 34 c. 1 ma non i limiti dell'allegato, che quindi non si possono dare
+  da qui.
 - **Punti 8.3.2, 8.3.5, 8.3.6, 8.3.8** dell'ASR 2025 (gru per autocarro, gru mobili,
   trattori, pompe): non trascritti; le ore si confermano solo sull'accordo del 2012.
 - **Un'incoerenza interna**: `quadro-storico-ore-pregresse.md` dice, sulle attrezzature,

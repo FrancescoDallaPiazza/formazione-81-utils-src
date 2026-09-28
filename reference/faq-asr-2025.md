@@ -214,3 +214,23 @@ eroga — e il motore non la esprime.
 Segnalato dalla corsia AppOverall il 9 settembre 2026, verificato qui sulla nostra
 copia.
 
+## Ambienti confinati e attrezzature dell'art. 73: niente videoconferenza
+
+Letto il 28/09/2026 su `fonti/250731_CommissioneSalute_RegioneEmiliaRomagna_FAQ.pdf`.
+Il quesito segnala che la Parte IV punto 3.2 equipara la videoconferenza sincrona alla
+presenza «fatta eccezione per i moduli didattici che prevedono un addestramento o prova
+pratica», mentre le tabelle del punto 3.5 la escludono per tutto il percorso di:
+
+> - lavoratori, datori di lavoro e lavoratori autonomi che operano in ambienti sospetti di
+> inquinamento o confinati,
+> - operatori addetti alla conduzione delle attrezzature dell'art. 73 comma 5 del D. Lgs. 81/08.
+
+Risposta (FAQ interregionali 2025, n. 13):
+
+> Non c'e contraddizione: la scelta distinta richiamata al punto 3.5 e stata voluta in
+> ragione della necessita di garantire un alto contenuto pratico alla formazione in
+> argomento.
+
+Quindi, per queste due figure, **solo presenza fisica**, corso base e aggiornamento,
+anche per la parte teorica. La tabella 3.5 in se resta non trascritta (vedi i «Buchi» in
+`assorbite-skill/README.md`).
