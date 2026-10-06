@@ -20,13 +20,26 @@ per cui serve qui — **ogni comma modificato porta la nota con il provvedimento
 che lo ha cambiato e la data di entrata in vigore**. E cosi che al primo
 controllo si e visto che l'art. 37 c. 11 era cambiato il 31 dicembre 2025.
 
-Le edizioni escono ogni pochi mesi: luglio 2025, poi gennaio 2026.
+Le edizioni escono ogni pochi mesi: luglio 2025, gennaio 2026, ottobre 2026.
 
 ## Stato
 
 | edizione in mano | letta il | dove sta il file |
 | --- | --- | --- |
-| **gennaio 2026** (20/01/2026, 1.466 pagine, 25 MB) | 8 settembre 2026 | `OneDrive - Overall Group srl\FormazioneASR\Normativa\81-08-AmatoDiFiore-gennaio-2026.pdf` |
+| **ottobre 2026** (04/10/2026, 1.514 pagine, 25 MB, `wpdmdl=2818`) | 6 ottobre 2026 | `OneDrive - Overall Group srl\FormazioneASR\Normativa\81-08-AmatoDiFiore-ottobre-2026.pdf` |
+| gennaio 2026 (20/01/2026, 1.466 pagine, 25 MB), superata | 8 settembre 2026 | `OneDrive - Overall Group srl\FormazioneASR\Normativa\81-08-AmatoDiFiore-gennaio-2026.pdf` |
+
+**Cosa ha portato l'edizione di ottobre 2026**, confrontata a macchina con quella
+di gennaio sugli articoli della lista qui sotto. L'unica nota di modifica nuova
+viene dalla **L. 11 marzo 2026 n. 34**, in vigore dal 7 aprile 2026: l'art. 37
+c. 4 lett. b-bis e il c. 5 (art. 10 della legge), gia trascritti il 27 settembre
+da normattiva. Fuori dalla lista la stessa legge tocca l'art. 3 (nuovo c. 7-bis
+sul lavoro agile), l'art. 30 (nuovo c. 5-ter sull'INAIL e le piccole imprese),
+l'art. 55 (la sanzione del c. 7-bis) e l'allegato VII. Nessuno dei quattro
+regge una scadenza del motore. Fuori dal decreto, il DM 22/09/2026 aggiunge al
+DM 1/9/2021 (controlli antincendio) l'art. 6-bis: chi ha chiesto la
+qualifica di manutentore entro il 25/09/2026 puo continuare a lavorare fino
+all'esito, e comunque non oltre il 31/03/2027. Il motore non segue i manutentori.
 
 **Il file non sta nel repo.** Sono 25 MB per edizione contro i 19 MB che oggi
 pesa tutto `.git`, e il sito chiede di linkare la pagina invece di ridistribuire
@@ -102,6 +115,16 @@ AppOverall:
 | art. 90 c. 3-7 | i coordinatori, designati dal committente |
 | art. 116 | i lavori su funi e la loro sorveglianza |
 | DM 2/9/2021 art. 4 | la designazione degli addetti antincendio |
+
+Dal 6 ottobre 2026 anche quello che la L. 34/2026 ha aggiunto e su cui poggiano
+le skill dvr-modulare, scheda-attrezzature, consulente-formazione-81 e
+checkupformazione81 (azioni A-010…A-012 del registro normativo sicurezza):
+
+| articolo | cosa regge |
+| --- | --- |
+| art. 3 c. 7-bis | lavoro agile: l'informativa scritta almeno annuale al lavoratore e all'RLS |
+| art. 37 c. 4 lett. b-bis | la formazione nei periodi di cassa integrazione |
+| allegato VII, voce PLE | la verifica triennale delle piattaforme di lavoro mobili elevabili e fuori strada per il frutteto |
 
 Sul c. 2 dell'art. 45 c'e una cosa da guardare ogni volta con attenzione
 particolare: **il giorno in cui esce il decreto attuativo che sostituisce il DM

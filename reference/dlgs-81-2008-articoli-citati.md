@@ -12,11 +12,15 @@ serve, non prima.
 ## L'edizione
 
 Testo coordinato curato da G. Amato (INAIL CTSS Venezia) e F. Di Fiore (ATS
-Pavia), **edizione gennaio 2026**, 1.466 pagine, dal sito
-[8108amatodifiore.it](https://www.8108amatodifiore.it/). Il file **non sta nel
-repo**: 25 MB per edizione, e il sito chiede di linkare la pagina invece di
-ridistribuire il documento. Sta in
-`OneDrive - Overall Group srl\FormazioneASR\Normativa\81-08-AmatoDiFiore-gennaio-2026.pdf`,
+Pavia), dal sito [8108amatodifiore.it](https://www.8108amatodifiore.it/). Le
+trascrizioni qui sotto sono state fatte sull'**edizione gennaio 2026** (1.466
+pagine). Dal 6 ottobre 2026 c'e l'**edizione ottobre 2026** (1.514 pagine), e sugli
+articoli della lista l'unica differenza e l'art. 37 c. 4 e 5 (L. 34/2026), gia
+trascritto qui sotto. I numeri di pagina citati restano quelli di gennaio. Il
+file **non sta nel repo**: 25 MB per edizione, e il sito chiede di linkare la
+pagina invece di ridistribuire il documento. Le due edizioni stanno in
+`OneDrive - Overall Group srl\FormazioneASR\Normativa\`
+(`81-08-AmatoDiFiore-gennaio-2026.pdf`, `81-08-AmatoDiFiore-ottobre-2026.pdf`),
 accanto agli accordi.
 
 Come si controlla se ne e uscita una nuova, e cosa si guarda quando succede, sta
@@ -450,10 +454,13 @@ Il testo coordinato scrive «ALLEGATO II», la Gazzetta (tussl e normattiva)
 stato **sostituito dalla L. 11 marzo 2026 n. 34** (legge annuale sulle piccole e
 medie imprese; nota 22 di tussl, e nota INL n. 780 del 15 aprile 2026 con le
 prime indicazioni operative). Normattiva data l'articolo «Testo in vigore dal:
-7-4-2026». Quale articolo della L. 34/2026 lo sostituisca **non e stato letto**:
-la legge non e in `fonti/`.
+7-4-2026». Lo modifica l'**art. 10 della L. 34/2026**: lo dice la nota 132
+dell'edizione ottobre 2026 del testo coordinato («Comma da ultimo modificato
+dall'art. 10 della legge 11 marzo 2026, n. 34 [...] in vigore dal 07/04/2026»).
+La legge non e in `fonti/`.
 
-Testo vigente, uguale parola per parola su tussl e su normattiva:
+Testo vigente, uguale parola per parola su tussl, su normattiva e
+sull'edizione ottobre 2026 (73 parole su 73, confronto a macchina):
 
 > 5. L'addestramento e effettuato da persona esperta e sul luogo di lavoro.
 > L'addestramento consiste nella prova pratica per l'uso corretto e in sicurezza
@@ -480,10 +487,71 @@ Cosa cambia per il registro degli addestramenti:
 - **la novita e la simulazione** «in ambiente reale o virtuale»: un
   addestramento al simulatore vale, e il registro deve poter dire che lo e stato.
 
-La stessa legge ha inserito nel c. 4 una lett. b-bis («dei periodi di cassa
-integrazione guadagni, sia in caso di sospensione che in caso di riduzione
-dell'orario di lavoro»), letta su tussl e su normattiva e non confrontata a
-macchina. **Nel motore nessuno la guarda.**
+## Art. 37 c. 4 lett. b-bis — la formazione nei periodi di cassa integrazione
+
+Edizione ottobre 2026, nota 130: «Lettera aggiunta dall'art. 10 della legge 11
+marzo 2026, n. 34 [...] in vigore dal 07/04/2026». Letta anche su tussl e su
+normattiva, identica.
+
+> 4. La formazione e, ove previsto, l'addestramento specifico devono avvenire in
+> occasione:
+> a) della costituzione del rapporto di lavoro o dell'inizio dell'utilizzazione
+> qualora si tratti di somministrazione di lavoro;
+> b) del trasferimento o cambiamento di mansioni;
+> b-bis) dei periodi di cassa integrazione guadagni, sia in caso di sospensione
+> che in caso di riduzione dell'orario di lavoro;
+> c) della introduzione di nuove attrezzature di lavoro o di nuove tecnologie, di
+> nuove sostanze e miscele pericolose.
+
+La lettera mette i periodi di cassa integrazione tra le occasioni in cui la
+formazione «deve avvenire». Non dice quale formazione, ne quante ore, ne entro
+quando. **Nel motore nessuno la guarda**: non c'e una scadenza da calcolare.
+
+## Art. 3 c. 7-bis — lavoro agile: l'informativa almeno annuale
+
+Edizione ottobre 2026, nota 12: «Comma aggiunto dall'art. 11 della legge 11 marzo
+2026, n. 34 [...] (G.U. n. 68 del 23/03/2026) in vigore dal 07/04/2026».
+
+> 7-bis. Per l'attivita lavorativa prestata con modalita di lavoro agile in
+> ambienti di lavoro che non rientrano nella disponibilita giuridica del datore
+> di lavoro, l'assolvimento di tutti gli obblighi di sicurezza compatibili con
+> tale modalita di lavoro, in particolare di quelli che attengono all'utilizzo
+> dei videoterminali, e assicurato dal datore di lavoro mediante la consegna al
+> lavoratore e al rappresentante dei lavoratori per la sicurezza, con cadenza
+> almeno annuale, di un'informativa scritta nella quale sono individuati i rischi
+> generali e i rischi specifici connessi alla particolare modalita di esecuzione
+> del rapporto di lavoro, fermo restando l'obbligo del lavoratore di cooperare
+> all'attuazione delle misure di prevenzione predisposte dal datore di lavoro per
+> fronteggiare i rischi connessi all'esecuzione della prestazione all'esterno dei
+> locali aziendali;
+
+La sanzione, nel riquadro dell'articolo: «Art. 3, co. 7-bis: arresto da due a
+quattro mesi o ammenda da 1.708,61 a 7.403,96 euro [Art. 55, co. 5, lett. c]».
+La lett. c dell'art. 55 c. 5 e stata modificata dall'art. 11 della stessa legge
+(nota 168) per richiamare il nuovo comma.
+
+E un'**informativa**, non formazione: l'art. 37 non c'entra. La cadenza «almeno
+annuale» e pero una scadenza che si legge, e la prima che il decreto fissa per
+il lavoro agile.
+
+## Allegato VII — la voce delle PLE
+
+Edizione ottobre 2026, pagina 47 di 185 degli allegati, nota 23: «Voce aggiunta
+dall'art. 12 della legge 11 marzo 2026, n. 34 [...] (G.U. n. 68 del 23/03/2026) in
+vigore dal [07/04/2026]».
+
+| Attrezzatura | Intervento/periodicita |
+| --- | --- |
+| Piattaforme di lavoro mobili elevabili e piattaforme di lavoro fuori strada per operazioni in frutteto | Verifica triennale |
+
+Trascritta com'e. **Se «per operazioni in frutteto» valga per tutte e due le
+piattaforme o solo per la seconda, la riga non lo dice**: la nota INL n. 780
+del 15 aprile 2026 la riassume come «PLE e piattaforme fuori strada in
+frutteto». E una verifica periodica dell'attrezzatura (art. 71 c. 11), non la
+formazione dell'operatore, che resta quella dell'accordo.
+
+**Un refuso dell'edizione.** L'elenco delle novita in apertura scrive «G.U. n. 38
+del 23/03/2026». Le note agli articoli scrivono n. 68, ed e quella giusta.
 
 ## Art. 43 c. 1 lett. b, c. 2, c. 3 — gli addetti all'emergenza
 
