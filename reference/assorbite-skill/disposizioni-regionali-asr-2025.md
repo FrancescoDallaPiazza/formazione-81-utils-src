@@ -14,6 +14,8 @@ NATURA         SINTESI, NON TRASCRIZIONE. **Non citabile**: nessuno degli atti
                non letture della fonte.
 MISURATO IL    27/05/2026 dalla skill; non riverificato all'assorbimento.
                Si rimisura aprendo l'atto di ciascuna Regione della matrice.
+               Lombardia (§7.3) riscritta il 14/10/2026 su fonti secondarie:
+               DGR XII/6661 del 03/08/2026, testo non ancora aperto.
 ================================================================================
 
 ## Dove si verifica lo stato
@@ -53,6 +55,8 @@ aspettano la lettura degli atti.
    attesa entro agosto 2026, non ancora pubblicata»: al 27/09/2026 agosto e
    passato e nessuno ha guardato. Finche non si guarda, lo stato lombardo e
    **non verificabile**, non «invariato».
+   *Chiuso il 14/10/2026*: la DGR attuativa e uscita, e la XII/6661 del
+   03/08/2026 (§7.3). Resta da aprire il testo e da fissare la data BURL.
 3. **Le skill kitformasubito* dicono altro in due punti**: citano una «DGR 4499»
    lombarda che qui non c'e, e contano 17 Regioni senza atti invece di 16.
    Una delle due versioni e sbagliata; non si sa quale finche non si apre l'atto.
@@ -75,7 +79,7 @@ Una riga per Regione/PA. **Stato atto specifico**: SÌ = c'è un atto regionale 
 | Friuli-Venezia Giulia | NO | — | §7.8 |
 | Lazio | NO | — | §7.8 |
 | Liguria | NO | — | §7.8 |
-| Lombardia | SÌ — DGR XII/4515 09/06/2025 + DGR XII/5667 26/01/2026 + L.R. 4/2026 10/02/2026 | NO finché DGR attuativa L.R. 4/2026 non esce | §7.3 |
+| Lombardia | SÌ — DGR XII/4515 09/06/2025 + DGR XII/5667 26/01/2026 + L.R. 4/2026 10/02/2026 + DGR XII/6661 03/08/2026 (Ge.Fo.S.) | **SÌ** dal 31° giorno dopo la pubblicazione BURL della DGR 6661 (data da verificare) | §7.3 |
 | Marche | NO | — | §7.8 |
 | Molise | NO | — | §7.8 |
 | Piemonte | SÌ — atto attuativo regionale | NO (solo enti accreditati) | §7.4 |
@@ -93,13 +97,26 @@ Una riga per Regione/PA. **Stato atto specifico**: SÌ = c'è un atto regionale 
 
 - **DGR Regione Lombardia XII/4515 del 09/06/2025**: prima disposizione attuativa dell'ASR 17/04/2025 sui requisiti dei soggetti formatori e sull'organizzazione dei corsi nel territorio lombardo. **Vincolante per i soggetti accreditati Regione Lombardia**, NON per il datore di lavoro che eroga formazione interna ai propri dipendenti.
 - **DGR Regione Lombardia XII/5667 del 26/01/2026**: integrazione e correzione di DGR 4515. Stesso campo di applicazione.
-- **L.R. Lombardia n. 4 del 10/02/2026**: legge regionale che ha normato il **tracciamento di TUTTI i corsi erogati in Lombardia in materia di salute e sicurezza** (anche quelli erogati da DDL interno). Però la legge rinvia a una DGR attuativa per le modalità operative del tracciamento. **DGR attuativa attesa entro agosto 2026**, non ancora pubblicata alla data di rev. sezione 7.
+- **L.R. Lombardia n. 4 del 10/02/2026**: legge regionale che norma il **tracciamento di TUTTI i corsi erogati in Lombardia in materia di salute e sicurezza**, anche quelli organizzati direttamente dal datore di lavoro, e rinvia a una DGR attuativa.
+- **DGR Regione Lombardia XII/6661 del 03/08/2026** (attuativa della L.R. 4/2026), *aggiornamento del 14/10/2026 su fonti secondarie, testo della delibera non ancora aperto*:
+  - istituisce la piattaforma regionale **Ge.Fo.S.** (Gestione Formazione Sicurezza);
+  - **soggetti obbligati**: i soggetti formatori iscritti al registro regionale **e** i datori di lavoro che organizzano direttamente la formazione di lavoratori, preposti e dirigenti;
+  - **comunicazione di avvio**: dati del corso, modalità, calendario e dati anagrafici dei discenti, entro l'avvio del corso (secondo una fonte, al più tardi 1 ora dopo l'inizio della prima lezione, poi il sistema blocca l'inserimento);
+  - **comunicazione di chiusura**: conclusione del corso ed esito per discente entro 30 giorni dalla fine; oltre, «dichiarazione tardiva»;
+  - **attestati**: generati dalla piattaforma (PDF/A con codice univoco) dopo la chiusura; secondo le fonti, quelli emessi fuori piattaforma non sono validi ai fini della legge regionale;
+  - **decorrenza**: la pubblicazione sul BURL era annunciata «non prima del 9 ottobre 2026», con attivazione contestuale della piattaforma; obblighi dal **31° giorno successivo alla pubblicazione**; sanzioni (secondo una fonte) da sei mesi dopo l'attivazione. **Data BURL non verificata al 14/10/2026**;
+  - **esclusioni** (secondo una fonte): formazione antincendio ex art. 46, generatori di vapore, amianto;
+  - **ancora da definire** con atti della DG Welfare: e-learning, microformazione, videoconferenza.
+- Fino alla decorrenza resta applicabile la DGR XII/4515/2025 (pagina istituzionale della Regione, aggiornata al 06/05/2026).
+
+Fonti del 14/10/2026 (secondarie, da sostituire con il testo della delibera): AmbLav 27/08/2026, Insic 31/08/2026, MegaItalia Media 03/09/2026, Safety Training Center.
 
 **Impatto sul KIT FORMASUBITO**:
-- Finché la DGR attuativa di L.R. 4/2026 NON è pubblicata → il KIT standard ASR è conforme. Eventuale nota informativa nel Progetto Formativo che richiami la futura piattaforma regionale è opzionale.
-- Se la DGR attuativa viene pubblicata → STOP emissione, serve aggiornare la skill `kitformasubito*` con i nuovi obblighi documentali e ri-emettere il KIT.
+- **Prima della decorrenza** (31° giorno dopo il BURL): KIT standard ASR conforme; nota informativa Ge.Fo.S. nel Progetto Formativo consigliata.
+- **Dopo la decorrenza**: per un corso svolto in Lombardia il DDL comunica avvio e chiusura su Ge.Fo.S. e l'attestato valido ai fini regionali è quello generato dalla piattaforma. Gli attestati del KIT restano utili come documentazione interna, ma **non sostituiscono** quello Ge.Fo.S.: le skill `kitformasubito*` vanno aggiornate (nota obbligatoria e avviso sugli attestati) prima di emettere KIT per clienti lombardi.
+- La verifica della data BURL e la lettura del testo della DGR 6661 sono il prossimo passo: finché mancano, le date di decorrenza qui sopra sono stime.
 
-**Query web di check al passo 0.5.c**: `Legge Regionale Lombardia 4/2026 DGR attuativa tracciamento corsi formazione [anno corrente]`.
+**Query web di check al passo 0.5.c**: `DGR XII/6661 2026 Lombardia BURL Ge.Fo.S. [anno corrente]`.
 
 ### 7.4 — Piemonte
 
