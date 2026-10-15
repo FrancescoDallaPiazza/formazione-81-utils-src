@@ -70,6 +70,24 @@ In `fonti/`, copiate dalla cartella aziendale
 | `DI-22012019-segnaletica-stradale.pdf` | DI 22 gennaio 2019, segnaletica stradale: ore nell'allegato II | 22/01/2019 |
 | `ASR2025_Ufficiale_PiuSicurezza.pdf` | seconda resa dell'ASR 2025, 136 pagine, con l'intestazione di terzi su ognuna | 06/06/2025 |
 
+**Le note dei Vigili del Fuoco sul DM 02/09/2021**
+
+Scaricate da vigilfuoco.it il 15 ottobre 2026, dall'elenco «Norme di prevenzione
+incendi» (`/servizi-le-aziende-e-i-professionisti/prevenzione-incendi/norme-di-prevenzione-incendi`,
+file sotto `/sites/default/files/rules-docs/`): le pagine «formazione addetti
+antincendio» non le collegano. Lette per la issue AppOverall #30; l'esito sta in
+`AppOverall/docs/0167-proposta.md`. Sono prassi (rango 3-4 della gerarchia), non
+norma: precisano il decreto, non lo cambiano.
+
+| file | cos'e | data | SHA-256 |
+| --- | --- | --- | --- |
+| `VVF-DCPREV-15472-2021-10-19-DM-02-09-2021-primi-chiarimenti.pdf` | DCPREV prot. 15472, «Primi chiarimenti»: **scansione** di 5 pagine (piu una bianca), si legge a vista; requisiti dei docenti a pag. 4-5 | 19/10/2021 | `dcfeb058…6899624` |
+| `VVF-DCPREV-7826-2022-05-31-DM-02-09-2021-procedure-formazione.pdf` | DCPREV prot. 7826, «Indicazioni procedurali per le attivita di formazione e di abilitazione», con le «Indicazioni applicative»: 21 pagine, **indice PDF = pagina stampata + 1**; la lettera di trasmissione ha la codifica dei caratteri rotta. Aggiornamento legato al livello del corso FOR (§2.4, pag. 16), formatori (§1.3-1.4, pag. 9) | 31/05/2022 | `9e388e89…ce42a43` |
+| `VVF-DCPREV-12301-2022-09-07-DM-02-09-2021-ulteriori-indicazioni.pdf` | DCPREV prot. 12301, «Ulteriori indicazioni procedurali per le attivita di formazione e materiali didattici»: il passaggio a un livello superiore richiede il corso intero (pag. 2-3) | 07/09/2022 | `eb6cd2e0…22e64f838` |
+
+Sull'equivalenza fra livelli (un livello superiore che vale per l'inferiore)
+**tutte e tre tacciono**: verificato leggendole per intero il 15/10/2026.
+
 **L'indice di pagina non e il numero stampato.** `ASR-170425.pdf` ha tre pagine
 in testa che non appartengono all'accordo — la 1 e il frontespizio «Copia diffusa
 da AiFOS», la 2 e la 3 non danno un carattere — e sono le uniche tre scansionate.
