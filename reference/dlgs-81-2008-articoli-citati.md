@@ -828,3 +828,399 @@ i tre testi coincidono, e la modifica non e stata cercata altrove nell'articolo.
 **Limite dichiarato.** Come sopra, nessuna lettura a video pagina per pagina.
 Gli intervalli di righe di A e lo script di confronto non sono nel repo: il
 PDF non c'e, e senza PDF non si ripetono.
+
+---
+
+# Gli articoli della scaletta delle figure
+
+Trascritti il 26 ottobre 2026 per la scaletta della visita a un cliente nuovo di
+AppOverall (`docs/scaletta-figure.md`, issue AppOverall #134): le figure che il
+tecnico chiede al datore di lavoro, e su che cosa la norma si appoggia. Prima
+mancavano qui, e la scaletta non le cita su una memoria.
+
+**L'edizione e un'altra.** Questi articoli sono stati letti sull'**edizione
+ottobre 2026** (1.514 pagine, `81-08-AmatoDiFiore-ottobre-2026.pdf`, stessa
+cartella di OneDrive), e le pagine sono di quella: **«di 204»** per il titolo I,
+**«di 185»** per gli allegati. Le sezioni di sopra citano gennaio («di 202»). Il
+confronto con l'edizione di gennaio e in fondo: su questi passi le due edizioni
+non differiscono.
+
+Nessuno di questi passi e fra quelli che la L. 34/2026 ha toccato (art. 3 c.
+7-bis, art. 37 c. 4 lett. b-bis e c. 5, art. 55, all. VII). Le sanzioni, che il
+testo coordinato riporta in riquadro sotto ogni articolo, non sono trascritte.
+Gli accenti sono tolti come nel resto del file.
+
+## Art. 2 c. 1 lett. e, f, g, h, i — preposto, RSPP, ASPP, medico, RLS
+
+Pagine 1-2 di 204.
+
+> e) «preposto»: persona che, in ragione delle competenze professionali e nei
+> limiti di poteri gerarchici e funzionali adeguati alla natura dell'incarico
+> conferitogli, sovrintende alla attivita lavorativa e garantisce l'attuazione
+> delle direttive ricevute, controllandone la corretta esecuzione da parte dei
+> lavoratori ed esercitando un funzionale potere di iniziativa;
+> f) «responsabile del servizio di prevenzione e protezione»: persona in possesso
+> delle capacita e dei requisiti professionali di cui all'articolo 32 designata
+> dal datore di lavoro, a cui risponde, per coordinare il servizio di prevenzione
+> e protezione dai rischi;
+> g) «addetto al servizio di prevenzione e protezione»: persona in possesso delle
+> capacita e dei requisiti professionali di cui all'articolo 32, facente parte del
+> servizio di cui alla lettera l);
+> h) «medico competente»: medico in possesso di uno dei titoli e dei requisiti
+> formativi e professionali di cui all'articolo 38, che collabora, secondo quanto
+> previsto all'articolo 29, comma 1, con il datore di lavoro ai fini della
+> valutazione dei rischi ed e nominato dallo stesso per effettuare la sorveglianza
+> sanitaria e per tutti gli altri compiti di cui al presente decreto;
+> i) «rappresentante dei lavoratori per la sicurezza»: persona eletta o designata
+> per rappresentare i lavoratori per quanto concerne gli aspetti della salute e
+> della sicurezza durante il lavoro;
+
+Il preposto si riconosce da **cosa fa** («sovrintende», «garantisce
+l'attuazione»), non da un titolo: e la definizione su cui poggia la domanda «chi
+controlla il lavoro degli altri?». L'RSPP e **designato dal datore** e gli
+risponde; il medico e **nominato** dal datore. L'RLS e **eletto o designato**:
+nessuna delle due parole e del datore.
+
+## Art. 19 c. 1 — gli obblighi del preposto
+
+Pagine 27-28 di 204. La lett. a e stata modificata e la f-bis introdotta dalla
+L. 17 dicembre 2021 n. 215.
+
+> 1. In riferimento alle attivita indicate all'articolo 3, i preposti, secondo le
+> loro attribuzioni e competenze, devono:
+> a) sovrintendere e vigilare sull'osservanza da parte dei singoli lavoratori dei
+> loro obblighi di legge, nonche delle disposizioni aziendali in materia di salute
+> e sicurezza sul lavoro e di uso dei mezzi di protezione collettivi e dei
+> dispositivi di protezione individuale messi a loro disposizione e, in caso di
+> rilevazione di comportamenti non conformi alle disposizioni e istruzioni
+> impartite dal datore di lavoro e dai dirigenti ai fini della protezione collettiva e
+> individuale, intervenire per modificare il comportamento non conforme fornendo
+> le necessarie indicazioni di sicurezza. In caso di mancata attuazione delle
+> disposizioni impartite o di persistenza dell'inosservanza, interrompere
+> l'attivita del lavoratore e informare i superiori diretti;
+> b) verificare affinche soltanto i lavoratori che hanno ricevuto adeguate
+> istruzioni accedano alle zone che li espongono ad un rischio grave e specifico;
+> c) richiedere l'osservanza delle misure per il controllo delle situazioni di
+> rischio in caso di emergenza e dare istruzioni affinche i lavoratori, in caso di
+> pericolo grave, immediato e inevitabile, abbandonino il posto di lavoro o la
+> zona pericolosa;
+> d) informare il piu presto possibile i lavoratori esposti al rischio di un
+> pericolo grave e immediato circa il rischio stesso e le disposizioni prese o da
+> prendere in materia di protezione;
+> e) astenersi, salvo eccezioni debitamente motivate, dal richiedere ai lavoratori
+> di riprendere la loro attivita in una situazione di lavoro in cui persiste un
+> pericolo grave ed immediato;
+> f) segnalare tempestivamente al datore di lavoro o al dirigente sia le
+> deficienze dei mezzi e delle attrezzature di lavoro e dei dispositivi di
+> protezione individuale, sia ogni altra condizione di pericolo che si verifichi
+> durante il lavoro, delle quali venga a conoscenza sulla base della formazione
+> ricevuta;
+> f-bis) in caso di rilevazione di deficienze dei mezzi e delle attrezzature di
+> lavoro e di ogni condizione di pericolo rilevata durante la vigilanza, se
+> necessario, interrompere temporaneamente l'attivita e, comunque, segnalare
+> tempestivamente al datore di lavoro e al dirigente le non conformita rilevate;
+> g) frequentare appositi corsi di formazione secondo quanto previsto
+> dall'articolo 37.
+
+L'articolo dice cosa il preposto **deve fare**, non chi lo sceglie: l'atto e
+l'individuazione dell'art. 18 c. 1 lett. b-bis (sopra).
+
+## Art. 25 c. 1 lett. l — il medico visita gli ambienti di lavoro
+
+Pagina 31 di 204.
+
+> 1. Il medico competente: [...]
+> l) visita gli ambienti di lavoro almeno una volta all'anno o a cadenza diversa
+> che stabilisce in base alla valutazione dei rischi; la indicazione di una
+> periodicita diversa dall'annuale deve essere comunicata al datore di lavoro ai
+> fini della sua annotazione nel documento di valutazione dei rischi;
+
+E il solo obbligo del medico che lascia una traccia dal datore di lavoro: il
+verbale del sopralluogo, o l'annotazione della cadenza diversa nel DVR.
+
+## Art. 31 c. 2, 4, 6, 7 — numero, esterni, e quando il servizio e interno
+
+Pagina 42 di 204.
+
+> 2. Gli addetti e i responsabili dei servizi, interni o esterni, di cui al comma
+> 1, devono possedere le capacita e i requisiti professionali di cui all'articolo
+> 32, devono essere in numero sufficiente rispetto alle caratteristiche
+> dell'azienda e disporre di mezzi e di tempo adeguati per lo svolgimento dei
+> compiti loro assegnati. Essi non possono subire pregiudizio a causa della
+> attivita svolta nell'espletamento del proprio incarico. [...]
+>
+> 4. Il ricorso a persone o servizi esterni e obbligatorio in assenza di
+> dipendenti che, all'interno dell'azienda ovvero dell'unita produttiva, siano in
+> possesso dei requisiti di cui all'articolo 32. [...]
+>
+> 6. L'istituzione del servizio di prevenzione e protezione all'interno
+> dell'azienda, ovvero dell'unita produttiva, e comunque obbligatoria nei seguenti
+> casi:
+> a) nelle aziende industriali di cui all'articolo 2 del decreto legislativo 17
+> agosto 1999, n. 334, e successive modificazioni, soggette all'obbligo di notifica
+> o rapporto, ai sensi degli articoli 6 e 8 del medesimo decreto;
+> b) nelle centrali termoelettriche;
+> c) negli impianti ed installazioni di cui agli articoli 7, 28 e 33 del decreto
+> legislativo 17 marzo 1995, n. 230, e successive modificazioni;
+> d) nelle aziende per la fabbricazione ed il deposito separato di esplosivi,
+> polveri e munizioni;
+> e) nelle aziende industriali con oltre 200 lavoratori;
+> f) nelle industrie estrattive con oltre 50 lavoratori;
+> g) nelle strutture di ricovero e cura pubbliche e private con oltre 50
+> lavoratori.
+>
+> 7. Nelle ipotesi di cui al comma 6 il responsabile del servizio di prevenzione e
+> protezione deve essere interno.
+
+Il testo coordinato annota che il D.Lgs. 334/1999 (lett. a) e stato abrogato dal
+D.Lgs. 105/2015 e il D.Lgs. 230/1995 (lett. c) dal D.Lgs. 101/2020: il comma
+rinvia ancora a quei numeri.
+
+## Art. 32 c. 1, 2, 5, 6 — i requisiti di RSPP e ASPP
+
+Pagine 42-43 di 204.
+
+> 1. Le capacita ed i requisiti professionali dei responsabili e degli addetti ai
+> servizi di prevenzione e protezione interni o esterni devono essere adeguati
+> alla natura dei rischi presenti sul luogo di lavoro e relativi alle attivita
+> lavorative.
+>
+> 2. Per lo svolgimento delle funzioni da parte dei soggetti di cui al comma 1, e
+> necessario essere in possesso di un titolo di studio non inferiore al diploma
+> di istruzione secondaria superiore nonche di un attestato di frequenza, con
+> verifica dell'apprendimento, a specifici corsi di formazione adeguati alla
+> natura dei rischi presenti sul luogo di lavoro e relativi alle attivita
+> lavorative. Per lo svolgimento della funzione di responsabile del servizio
+> prevenzione e protezione, oltre ai requisiti di cui al precedente periodo, e
+> necessario possedere un attestato di frequenza, con verifica
+> dell'apprendimento, a specifici corsi di formazione in materia di prevenzione e
+> protezione dei rischi, anche di natura ergonomica e da stress lavoro-correlato
+> di cui all'articolo 28, comma 1, di organizzazione e gestione delle attivita
+> tecnico amministrative e di tecniche di comunicazione in azienda e di relazioni
+> sindacali. I corsi di cui ai periodi precedenti devono rispettare in ogni caso
+> quanto previsto dall'Accordo sancito il 26 gennaio 2006 in sede di Conferenza
+> permanente per i rapporti tra lo Stato, le Regioni e le Province autonome di
+> Trento e di Bolzano, pubblicato nella Gazzetta Ufficiale n. 37 del 14 febbraio
+> 2006, e successive modificazioni. [...]
+>
+> 5. Coloro che sono in possesso di laurea in una delle seguenti classi: L7, L8,
+> L9, L17, L23, e della laurea magistrale LM26 [...] sono esonerati dalla
+> frequenza ai corsi di formazione di cui al comma 2, primo periodo. Ulteriori
+> titoli di studio possono essere individuati in sede di Conferenza permanente
+> per i rapporti tra lo Stato, le Regioni e le Province autonome di Trento e di
+> Bolzano. [...]
+>
+> 6. I responsabili e gli addetti dei servizi di prevenzione e protezione sono
+> tenuti a frequentare corsi di aggiornamento secondo gli indirizzi definiti
+> nell'Accordo Stato-Regioni di cui al comma 2. E fatto salvo quanto previsto
+> dall'articolo 34.
+
+Tre requisiti per l'RSPP, due per l'ASPP: **diploma** (o il caso transitorio del
+c. 3, chi svolgeva la funzione da sei mesi al 13 agosto 2003, non trascritto),
+**attestato del corso adeguato ai rischi** (per l'ASPP finisce qui), e per l'RSPP
+**l'attestato del secondo corso** (organizzazione, comunicazione, relazioni
+sindacali). I corsi oggi sono i moduli A, B e C dell'ASR 17/04/2025, Parte II
+punto 5 (`asr-2025-parte-ii-durate-iniziali.md`); l'«Accordo del 26 gennaio
+2006» che il comma nomina e abrogato, annota il testo coordinato, dal punto 15
+dell'accordo n. 128/CSR del 7 luglio 2016. Il c. 5 esonera solo dal «comma 2,
+primo periodo», il corso comune ad ASPP e RSPP: non dal secondo, che l'RSPP
+aggiunge.
+
+## Art. 34 c. 2, 2-bis, 3 e allegato II — il datore che fa l'RSPP
+
+Art. 34: pagine 44-45 di 204. Il c. 2-bis e del D.Lgs. 151/2015.
+
+> 2. Il datore di lavoro che intende svolgere i compiti di cui al comma 1, deve
+> frequentare corsi di formazione, di durata minima di 16 ore e massima di 48 ore,
+> adeguati alla natura dei rischi presenti sul luogo di lavoro e relativi alle
+> attivita lavorative, nel rispetto dei contenuti e delle articolazioni definiti
+> mediante Accordo in sede di Conferenza permanente per i rapporti tra lo Stato,
+> le Regioni e le Province autonome di Trento e di Bolzano, entro il termine di
+> dodici mesi dall'entrata in vigore del presente decreto legislativo. [...]
+>
+> 2-bis. Il datore di lavoro che svolge direttamente i compiti di primo soccorso
+> nonche di prevenzione incendi e di evacuazione deve frequentare gli specifici
+> corsi formazione previsti agli articoli 45 e 46.
+>
+> 3. Il datore di lavoro che svolge i compiti di cui al comma 1 e altresi tenuto
+> a frequentare corsi di aggiornamento nel rispetto di quanto previsto
+> nell'Accordo di cui al precedente comma. [...]
+
+Allegato II, pagina 4 di 185 degli allegati:
+
+> CASI IN CUI E CONSENTITO LO SVOLGIMENTO DIRETTO DA PARTE DEL DATORE DI LAVORO
+> DEI COMPITI DI PREVENZIONE E PROTEZIONE DEI RISCHI (articolo 34)
+>
+> 1. Aziende artigiane e industriali (1) ...... fino a 30 lavoratori
+> 2. Aziende agricole e zootecniche ........ fino a 30 lavoratori
+> 3. Aziende della pesca .......................... fino a 20 lavoratori
+> 4. Altre aziende ..................................... fino a 200 lavoratori
+>
+> (1) Escluse le aziende industriali di cui all'art. 1 del decreto del Presidente
+> della Repubblica 17 maggio 1988, n. 175, e successive modifiche, soggette
+> all'obbligo di dichiarazione o notifica ai sensi degli articoli 4 e 6 del
+> decreto stesso, le centrali termoelettriche, gli impianti ed i laboratori
+> nucleari, le aziende estrattive e altre attivita minerarie, le aziende per la
+> fabbricazione ed il deposito separato di esplosivi, polveri e munizioni, le
+> strutture di ricovero e cura sia pubbliche sia private.
+
+Il datore puo fare l'RSPP **solo** entro le soglie dell'allegato e fuori dai casi
+dell'art. 31 c. 6 (art. 34 c. 1, sopra). Il corso oggi e l'ASR 17/04/2025 Parte II
+punto 4 (`asr-2025-parte-ii-durate-iniziali.md`). Per fare anche l'addetto al
+primo soccorso o all'antincendio, i corsi di quelle figure (c. 2-bis).
+
+## Art. 38 c. 1, 4 e art. 39 c. 2 — i titoli del medico, e come lavora
+
+Pagina 50 di 204. La lett. d-bis dell'art. 38 c. 1 riguarda i sanitari delle
+Forze Armate e delle forze di polizia, ed e omessa.
+
+> 1. Per svolgere le funzioni di medico competente e necessario possedere uno
+> dei seguenti titoli o requisiti:
+> a) specializzazione in medicina del lavoro o in medicina preventiva dei
+> lavoratori e psicotecnica;
+> b) docenza in medicina del lavoro o in medicina preventiva dei lavoratori e
+> psicotecnica o in tossicologia industriale o in igiene industriale o in
+> fisiologia e igiene del lavoro o in clinica del lavoro;
+> c) autorizzazione di cui all'articolo 55 del decreto legislativo 15 agosto
+> 1991, n. 277;
+> d) specializzazione in igiene e medicina preventiva o in medicina legale; [...]
+>
+> 4. I medici in possesso dei titoli e dei requisiti di cui al presente articolo
+> sono iscritti nell'elenco dei medici competenti istituito presso il Ministero
+> del lavoro, della salute e delle politiche sociali.
+
+Art. 39:
+
+> 2. Il medico competente svolge la propria opera in qualita di:
+> a) dipendente o collaboratore di una struttura esterna pubblica o privata,
+> convenzionata con l'imprenditore;
+> b) libero professionista;
+> c) dipendente del datore di lavoro.
+
+Chi ha i titoli **e iscritto nell'elenco** del c. 4: guardare l'elenco invece di
+un attestato e una **deduzione** (l'articolo non dice chi lo verifica), ed e la
+differenza con l'RSPP, i cui requisiti sono attestati di corsi.
+
+## Art. 41 c. 1 — quando c'e la sorveglianza sanitaria
+
+Pagina 51 di 204.
+
+> 1. La sorveglianza sanitaria e effettuata dal medico competente:
+> a) nei casi previsti dalla normativa vigente, dalle indicazioni fornite dalla
+> Commissione consultiva di cui all'articolo 6;
+> b) qualora il lavoratore ne faccia richiesta e la stessa sia ritenuta dal
+> medico competente correlata ai rischi lavorativi.
+
+Con l'art. 18 c. 1 lett. a (sopra): il medico si nomina quando la sorveglianza
+sanitaria e dovuta, e **lo dicono la norma e la valutazione dei rischi**, non la
+visita.
+L'art. 40 non e trascritto: riguarda la trasmissione dei dati sanitari al
+Servizio sanitario nazionale, che il datore di lavoro non vede.
+
+## Art. 45 c. 1, 2 — il primo soccorso rinvia al DM 388/2003
+
+Pagine 54-55 di 204.
+
+> 1. Il datore di lavoro, tenendo conto della natura della attivita e delle
+> dimensioni dell'azienda o della unita produttiva, sentito il medico competente
+> ove nominato, prende i provvedimenti necessari in materia di primo soccorso e
+> di assistenza medica di emergenza, tenendo conto delle altre eventuali persone
+> presenti sui luoghi di lavoro e stabilendo i necessari rapporti con i servizi
+> esterni, anche per il trasporto dei lavoratori infortunati.
+>
+> 2. Le caratteristiche minime delle attrezzature di primo soccorso, i requisiti
+> del personale addetto e la sua formazione, individuati in relazione alla natura
+> dell'attivita, al numero dei lavoratori occupati ed ai fattori di rischio sono
+> individuati dal decreto ministeriale 15 luglio 2003, n. 388 e dai successivi
+> Decreti Ministeriali di adeguamento acquisito il parere della Conferenza
+> permanente per i rapporti tra lo Stato, le Regioni e le Province autonome di
+> Trento e di Bolzano.
+
+La designazione degli addetti e dell'art. 18 c. 1 lett. b e dell'art. 43 c. 1
+lett. b (sopra); cassetta, pacchetto di medicazione e corso stanno nel DM 388/2003,
+artt. 2 e 3, pagina 7 di 12 di `fonti/Decreto Min. Salute n. 388_2003.pdf`.
+
+## Art. 47 c. 8 e art. 48 c. 1, 3, 6 — quando l'RLS non c'e
+
+Art. 47 c. 8: pagina 57 di 204.
+
+> 8. Qualora non si proceda alle elezioni previste dai commi 3 e 4, le funzioni
+> di rappresentante dei lavoratori per la sicurezza sono esercitate dai
+> rappresentanti di cui agli articoli 48 e 49, salvo diverse intese tra le
+> associazioni sindacali dei lavoratori e dei datori di lavoro comparativamente
+> piu rappresentative sul piano nazionale.
+
+Art. 48, pagina 57 di 204:
+
+> 1. Il rappresentante dei lavoratori per la sicurezza territoriale di cui
+> all'articolo 47, comma 3, esercita le competenze del rappresentante dei
+> lavoratori per la sicurezza di cui all'articolo 50 e i termini e con le
+> modalita ivi previste con riferimento a tutte le aziende o unita produttive del
+> territorio o del comparto di competenza nelle quali non sia stato eletto o
+> designato il rappresentante dei lavoratori per la sicurezza. [...]
+>
+> 3. Tutte le aziende o unita produttive nel cui ambito non e stato eletto o
+> designato il rappresentante dei lavoratori per la sicurezza partecipano al
+> Fondo di cui all'articolo 52. Con uno o piu accordi interconfederali stipulati
+> a livello nazionale dalle organizzazioni sindacali dei datori di lavoro e dei
+> lavoratori comparativamente piu rappresentative vengono individuati settori e
+> attivita, oltre all'edilizia, nei quali, in ragione della presenza di adeguati
+> sistemi di rappresentanza dei lavoratori in materia di sicurezza o di
+> pariteticita, le aziende o unita produttive, a condizione che aderiscano a tali
+> sistemi di rappresentanza o di pariteticita, non siano tenute a partecipare al
+> Fondo di cui all'articolo 52. [...]
+>
+> 6. L'organismo paritetico o, in mancanza, il Fondo di cui all'articolo 52
+> comunica alle aziende e ai lavoratori interessati il nominativo del
+> rappresentante della sicurezza territoriale.
+
+Se i lavoratori non eleggono, **le funzioni passano all'RLST** (o all'RLS di sito,
+art. 49): non e il datore che lo sceglie, e il nominativo **arriva** all'azienda
+dall'organismo paritetico o dal Fondo. L'elezione e dei lavoratori (art. 47 c.
+2-4, sopra): nessuno di questi commi la da al datore di lavoro. In cambio
+l'azienda senza RLS **partecipa al Fondo dell'art. 52** (c. 3), salvo i settori
+individuati dagli accordi interconfederali; l'art. 52 non e trascritto qui.
+
+### Come e stato verificato il testo
+
+Tre estrazioni, confrontate a macchina parola per parola sui passi trascritti:
+
+- **A** — l'edizione ottobre 2026, `pdftotext -enc UTF-8 -layout`;
+- **B** — l'edizione gennaio 2026, stesso comando;
+- **C** — normattiva.it, l'articolo vigente per URN
+  (`urn:nir:stato:decreto.legislativo:2008-04-09;81~artN!vig=`), letto il 26
+  ottobre 2026.
+
+Normalizzati prima del confronto: accenti, apostrofi tipografici, rimandi alle
+note, i «(N)» con cui il testo coordinato segna i provvedimenti citati, i «(( ))»
+di normattiva, la punteggiatura.
+
+| passo | parole | A-C | B-C | A-B |
+|---|---:|---|---|---|
+| art. 2 c. 1 lett. e-i | 211 | identici | identici | identici |
+| **art. 19 c. 1** | 356 | **3 parole** | **3 parole** | identici |
+| art. 25 c. 1 lett. l | 49 | identici | identici | identici |
+| art. 31 c. 2, 4, 6, 7 | 254 | identici | identici | identici |
+| art. 32 c. 1, 2, 5, 6 | 341 | identici | identici | identici |
+| art. 34 c. 2-3 e all. II | 297 | identici (all. II non in C) | idem | identici |
+| art. 38 c. 1, 4, art. 39 c. 2 | 160 | identici | identici | identici |
+| art. 41 c. 1 | 46 | identici | identici | identici |
+| **art. 45 c. 1-2** | 143 | **1 parola** | **1 parola** | identici |
+| art. 47 c. 8, art. 48 c. 1, 3, 6 | 263 | identici | identici | identici |
+
+Tolte le note a pie' di pagina e le intestazioni di pagina che in A e B cadono in
+mezzo a un passo, e i rimandi alle note attaccati ai numeri («334118»,
+«2006120»). Le differenze vere, tutte fra il testo coordinato (A e B, che
+concordano) e normattiva:
+- art. 19 c. 1 lett. a: «vigilare sulla osservanza», «dal datore di lavoro e
+  dirigenti», «persistenza della inosservanza» in A e B; «sull'osservanza», «e
+  **dai** dirigenti», «dell'inosservanza» in C;
+- art. 45 c. 1: «della natura dell'attivita» in A e B, «della natura della
+  attivita» in C.
+
+Nessuna cambia il senso. **Dove A e B divergono da C, qui si trascrive C**,
+il testo vigente.
+
+**Limite dichiarato.** Come sopra, nessuna lettura a video pagina per pagina; e
+l'allegato II, che normattiva non serve per URN di articolo, e confrontato solo
+fra A e B.
