@@ -881,6 +881,21 @@ controlla il lavoro degli altri?». L'RSPP e **designato dal datore** e gli
 risponde; il medico e **nominato** dal datore. L'RLS e **eletto o designato**:
 nessuna delle due parole e del datore.
 
+## Art. 18 c. 3-bis — il datore vigila sugli obblighi degli altri
+
+Pagina 27 di 204.
+
+> 3-bis. Il datore di lavoro e i dirigenti sono tenuti altresi a vigilare in
+> ordine all'adempimento degli obblighi di cui agli articoli 19, 20, 22, 23, 24
+> e 25, ferma restando l'esclusiva responsabilita dei soggetti obbligati ai sensi
+> dei medesimi articoli qualora la mancata attuazione dei predetti obblighi sia
+> addebitabile unicamente agli stessi e non sia riscontrabile un difetto di
+> vigilanza del datore di lavoro e dei dirigenti.
+
+Gli obblighi del preposto (art. 19) e del medico (art. 25) sono loro, ma il
+datore e i dirigenti **vigilano** che siano adempiuti: la responsabilita resta
+solo del preposto o del medico se non c'e un difetto di vigilanza.
+
 ## Art. 19 c. 1 — gli obblighi del preposto
 
 Pagine 27-28 di 204. La lett. a e stata modificata e la f-bis introdotta dalla
@@ -935,8 +950,10 @@ Pagina 31 di 204.
 > periodicita diversa dall'annuale deve essere comunicata al datore di lavoro ai
 > fini della sua annotazione nel documento di valutazione dei rischi;
 
-E il solo obbligo del medico che lascia una traccia dal datore di lavoro: il
-verbale del sopralluogo, o l'annotazione della cadenza diversa nel DVR.
+Lascia una traccia dal datore di lavoro (non e la sola: anche la lett. i, i
+risultati anonimi collettivi comunicati per iscritto, qui non trascritta): il
+verbale del sopralluogo, o l'annotazione della cadenza diversa nel DVR. E il
+datore vigila che il medico lo faccia (art. 18 c. 3-bis, sotto).
 
 ## Art. 31 c. 2, 4, 6, 7 — numero, esterni, e quando il servizio e interno
 
@@ -1021,8 +1038,9 @@ c. 3, chi svolgeva la funzione da sei mesi al 13 agosto 2003, non trascritto),
 **l'attestato del secondo corso** (organizzazione, comunicazione, relazioni
 sindacali). I corsi oggi sono i moduli A, B e C dell'ASR 17/04/2025, Parte II
 punto 5 (`asr-2025-parte-ii-durate-iniziali.md`); l'«Accordo del 26 gennaio
-2006» che il comma nomina e abrogato, annota il testo coordinato, dal punto 15
-dell'accordo n. 128/CSR del 7 luglio 2016. Il c. 5 esonera solo dal «comma 2,
+2006» che il comma nomina e abrogato dal punto 15 dell'accordo n. 128/CSR del 7
+luglio 2016: lo dice un «commento personale» dei curatori del testo coordinato
+(nota 120, p. 42 di 204), non una nota normativa. Il c. 5 esonera solo dal «comma 2,
 primo periodo», il corso comune ad ASPP e RSPP: non dal secondo, che l'RSPP
 aggiunge.
 
@@ -1198,6 +1216,7 @@ di normattiva, la punteggiatura.
 | passo | parole | A-C | B-C | A-B |
 |---|---:|---|---|---|
 | art. 2 c. 1 lett. e-i | 211 | identici | identici | identici |
+| art. 18 c. 3-bis | 69 | identici | identici | identici (in B la scritta a margine «Penali» attaccata a una parola) |
 | **art. 19 c. 1** | 356 | **3 parole** | **3 parole** | identici |
 | art. 25 c. 1 lett. l | 49 | identici | identici | identici |
 | art. 31 c. 2, 4, 6, 7 | 254 | identici | identici | identici |
