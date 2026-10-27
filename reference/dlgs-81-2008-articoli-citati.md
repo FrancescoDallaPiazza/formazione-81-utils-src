@@ -993,7 +993,7 @@ Il testo coordinato annota che il D.Lgs. 334/1999 (lett. a) e stato abrogato dal
 D.Lgs. 105/2015 e il D.Lgs. 230/1995 (lett. c) dal D.Lgs. 101/2020: il comma
 rinvia ancora a quei numeri.
 
-## Art. 32 c. 1, 2, 5, 6 — i requisiti di RSPP e ASPP
+## Art. 32 c. 1, 2, 3, 5, 6 — i requisiti di RSPP e ASPP
 
 Pagine 42-43 di 204.
 
@@ -1020,6 +1020,13 @@ Pagine 42-43 di 204.
 > Trento e di Bolzano, pubblicato nella Gazzetta Ufficiale n. 37 del 14 febbraio
 > 2006, e successive modificazioni. [...]
 >
+> 3. Possono altresi svolgere le funzioni di responsabile o addetto coloro che,
+> pur non essendo in possesso del titolo di studio di cui al comma 2, dimostrino
+> di aver svolto una delle funzioni richiamate, professionalmente o alle
+> dipendenze di un datore di lavoro, almeno da sei mesi alla data del 13 agosto
+> 2003 previo svolgimento dei corsi secondo quanto previsto dall'Accordo di cui
+> al comma 2.
+>
 > 5. Coloro che sono in possesso di laurea in una delle seguenti classi: L7, L8,
 > L9, L17, L23, e della laurea magistrale LM26 [...] sono esonerati dalla
 > frequenza ai corsi di formazione di cui al comma 2, primo periodo. Ulteriori
@@ -1033,7 +1040,8 @@ Pagine 42-43 di 204.
 > dall'articolo 34.
 
 Tre requisiti per l'RSPP, due per l'ASPP: **diploma** (o il caso transitorio del
-c. 3, chi svolgeva la funzione da sei mesi al 13 agosto 2003, non trascritto),
+c. 3, p. 43 di 204: chi svolgeva la funzione da almeno sei mesi al 13 agosto 2003,
+e lo dimostra, puo farlo senza diploma, ma **i corsi li deve fare comunque**),
 **attestato del corso adeguato ai rischi** (per l'ASPP finisce qui), e per l'RSPP
 **l'attestato del secondo corso** (organizzazione, comunicazione, relazioni
 sindacali). I corsi oggi sono i moduli A, B e C dell'ASR 17/04/2025, Parte II
@@ -1221,6 +1229,7 @@ di normattiva, la punteggiatura.
 | art. 25 c. 1 lett. l | 49 | identici | identici | identici |
 | art. 31 c. 2, 4, 6, 7 | 254 | identici | identici | identici |
 | art. 32 c. 1, 2, 5, 6 | 341 | identici | identici | identici |
+| art. 32 c. 3 | 66 | identici | identici | identici (letto il 27 ottobre 2026) |
 | art. 34 c. 2-3 e all. II | 297 | identici (all. II non in C) | idem | identici |
 | art. 38 c. 1, 4, art. 39 c. 2 | 160 | identici | identici | identici |
 | art. 41 c. 1 | 46 | identici | identici | identici |
