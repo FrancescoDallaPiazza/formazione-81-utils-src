@@ -95,6 +95,12 @@ guarda. Comma introdotto dalla L. 215/2021.
 > qualvolta sia reso necessario in ragione dell'evoluzione dei rischi o
 > all'insorgenza di nuovi rischi.
 
+**Da quando** (letto il 27 ottobre 2026): il comma lo introduce la L. 17 dicembre 2021 n. 215, conversione del
+D.L. 21 ottobre 2021 n. 146 (nota 134 del testo coordinato, edizione ottobre 2026, pagina 131 del PDF), pubblicata nella
+G.U. Serie Generale n. 301 del 20/12/2021. L'art. 1 c. 2 della legge dice che «entra in vigore il giorno successivo a
+quello della sua pubblicazione»; normattiva riporta «Entrata in vigore del provvedimento: 21/12/2021». Quindi
+l'obbligo della presenza vale per i corsi e gli aggiornamenti del preposto **dal 21/12/2021**.
+
 La cadenza biennale il motore la sa. La modalita in presenza no: e un requisito
 sul **come** e stato erogato il corso, e in archivio non c'e un campo che lo dica.
 Sui corsi fatti da noi si sa; su quelli esterni riconosciuti, no.
