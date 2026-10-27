@@ -993,6 +993,75 @@ Il testo coordinato annota che il D.Lgs. 334/1999 (lett. a) e stato abrogato dal
 D.Lgs. 105/2015 e il D.Lgs. 230/1995 (lett. c) dal D.Lgs. 101/2020: il comma
 rinvia ancora a quei numeri.
 
+## Art. 4 — chi entra nel conto dei lavoratori
+
+Pagina 9 di 204 (pagina 93 del PDF dell'edizione ottobre 2026). Serve ovunque il decreto fa
+dipendere un obbligo da un numero di lavoratori: le soglie dell'allegato II (art. 34, il datore
+che fa l'RSPP), l'art. 31 c. 6, l'aggiornamento dell'RLS (art. 37 c. 11), l'art. 47.
+
+> 1. Ai fini della determinazione del numero di lavoratori dal quale il presente
+> decreto legislativo fa discendere particolari obblighi non sono computati:
+> a) i collaboratori familiari di cui all'articolo 230-bis del codice civile;
+> b) i soggetti beneficiari delle iniziative di tirocini formativi e di
+> orientamento;
+> c) gli allievi degli istituti di istruzione e universitari e i partecipanti ai
+> corsi di formazione professionale nei quali si faccia uso di laboratori,
+> attrezzature di lavoro in genere, agenti chimici, fisici e biologici, ivi
+> comprese le attrezzature munite di videoterminali;
+> d) i lavoratori assunti con contratto di lavoro a tempo determinato, ai sensi
+> dell'articolo 1 del decreto legislativo 6 settembre 2001, n. 368, in
+> sostituzione di altri prestatori di lavoro assenti con diritto alla
+> conservazione del posto di lavoro;
+> e) i lavoratori che svolgono prestazioni occasionali di tipo accessorio ai sensi
+> degli articoli 70, e seguenti, del decreto legislativo 10 settembre 2003, n.
+> 276, e successive modificazioni, nonche prestazioni che esulano dal mercato del
+> lavoro ai sensi dell'articolo 74 del medesimo decreto.
+> f) i lavoratori di cui alla legge 18 dicembre 1973, n. 877, ove la loro attivita
+> non sia svolta in forma esclusiva a favore del datore di lavoro committente;
+> g) i volontari, come definiti dalla legge 11 agosto 1991, n. 266, i volontari
+> del Corpo nazionale dei vigili del fuoco e della protezione civile e i
+> volontari che effettuano il servizio civile;
+> h) i lavoratori utilizzati nei lavori socialmente utili di cui al decreto
+> legislativo 1 dicembre 1997, n. 468, e successive modificazioni;
+> i) i lavoratori autonomi di cui all'articolo 2222 del codice civile, fatto salvo
+> quanto previsto dalla successiva lettera l);
+> l) i collaboratori coordinati e continuativi di cui all'articolo 409, primo
+> comma, n. 3, del codice di procedura civile, nonche i lavoratori a progetto di
+> cui agli articoli 61 e seguenti del decreto legislativo 10 settembre 2003, n.
+> 276, e successive modificazioni, ove la loro attivita non sia svolta in forma
+> esclusiva a favore del committente.
+> l-bis) i lavoratori in prova.
+>
+> 2. I lavoratori utilizzati mediante somministrazione di lavoro ai sensi degli
+> articoli 20, e seguenti, del decreto legislativo 10 settembre 2003, n. 276, e
+> successive modificazioni, e i lavoratori assunti a tempo parziale ai sensi del
+> decreto legislativo 25 febbraio 2000, n. 61, e successive modificazioni, si
+> computano sulla base del numero di ore di lavoro effettivamente prestato
+> nell'arco di un semestre.
+>
+> 3. Fatto salvo quanto previsto dal comma 4, nell'ambito delle attivita
+> stagionali definite dal decreto del Presidente della Repubblica 7 ottobre 1963,
+> n. 1525 e successive modificazioni, nonche di quelle individuate dai contratti
+> collettivi nazionali stipulati dalle organizzazioni dei lavoratori e dei datori
+> di lavoro comparativamente piu rappresentative, il personale in forza si computa
+> a prescindere dalla durata del contratto e dall'orario di lavoro effettuato.
+>
+> 4. Il numero degli operai impiegati a tempo determinato, anche stagionali, nel
+> settore agricolo si computa per frazioni di unita lavorative anno (ULA) come
+> individuate sulla base della normativa comunitaria.
+
+**Le lettere** sono quelle di normattiva (testo vigente). Il testo coordinato ha lo stesso
+contenuto ma lo elenca da c) a l-bis): stesso ordine, lettere spostate di due. Si cita con le
+lettere di normattiva. Il testo coordinato segnala sotto l'articolo l'**interpello n. 4/2018**
+(alternanza scuola-lavoro e tirocini), non letto. Le note del testo coordinato ricordano che
+gli artt. 61 e 70 del D.Lgs. 276/2003 e gli artt. 20 e seguenti sono abrogati o sostituiti dal
+D.Lgs. 81/2015: sono rinvii storici, il comma resta in vigore.
+
+**In pratica, per contare** (dedotto dal testo): si contano i dipendenti, tranne quelli in
+prova, i tirocinanti, i familiari dell'art. 230-bis, i sostituti a termine di chi è assente,
+gli autonomi e i collaboratori che non lavorano in esclusiva per il committente; part-time e somministrati contano per le ore lavorate nel semestre; gli
+stagionali contano per intero.
+
 ## Art. 32 c. 1, 2, 3, 5, 6 — i requisiti di RSPP e ASPP
 
 Pagine 42-43 di 204.
@@ -1229,6 +1298,7 @@ di normattiva, la punteggiatura.
 | art. 25 c. 1 lett. l | 49 | identici | identici | identici |
 | art. 31 c. 2, 4, 6, 7 | 254 | identici | identici | identici |
 | art. 32 c. 1, 2, 5, 6 | 341 | identici | identici | identici |
+| art. 4 c. 1-4 | 488 | identici nel contenuto (lettere spostate di due) | idem | uguali, salvo numeri delle note e a capo di pagina (letto il 27 ottobre 2026) |
 | art. 32 c. 3 | 66 | identici | identici | identici (letto il 27 ottobre 2026) |
 | art. 34 c. 2-3 e all. II | 297 | identici (all. II non in C) | idem | identici |
 | art. 38 c. 1, 4, art. 39 c. 2 | 160 | identici | identici | identici |
