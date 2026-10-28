@@ -41,6 +41,7 @@ staging.
 | [`dlgs-81-2008-articoli-citati.md`](dlgs-81-2008-articoli-citati.md) | il decreto che il progetto citava quindici volte senza averlo mai letto: RLS, credito formativo, allegato XXI, e la delega di funzioni dell'art. 16 — che la formazione non la nomina mai, quindi l'obbligo del delegato dipende tutto da quale qualifica gli si riconosce. E gli articoli delle lettere d'incarico (17, 18, 26, 31, 34, 37 c. 5, 43, 46, 47, 50, 71, 73, 90, 116, DM 2/9/2021 art. 4), confrontati a tre con tussl e normattiva: l'art. 37 c. 5 dell'edizione di gennaio 2026 e superato. E gli articoli della scaletta delle figure (2 c. 1 lett. e-i, 18 c. 3-bis, 19, 25 c. 1 lett. l, 31 c. 2-7, 32, 34 c. 2-3 e allegato II, 38, 39 c. 2, 41 c. 1, 45, 47 c. 8, 48), letti sull'edizione di ottobre 2026 e confrontati con normattiva |
 | [`dpr-177-2011-ambienti-confinati.md`](dpr-177-2011-ambienti-confinati.md) | il DPR sugli ambienti confinati, che il progetto citava senza averlo letto: la formazione e di «tutto il personale, ivi compreso il datore di lavoro», il preposto e nominato solo per l'esperienza triennale, e le durate le rimanda all'accordo Stato-Regioni |
 | [`reg-ue-2020-1149-diisocianati.md`](reg-ue-2020-1149-diisocianati.md) | la voce 74 dell'allegato XVII REACH: obbligo di formazione prima dell'uso dal 24 agosto 2023, i tre livelli scelti dall'uso e non dalla figura, rinnovo **almeno ogni cinque anni** — e le ore, che la fonte **non stabilisce** |
+| [`di-06-03-2013-formatore.md`](di-06-03-2013-formatore.md) | il D.I. 6/3/2013 (S-030) letto sul testo di lavoro.gov.it: prerequisito, sei criteri, tre aree tematiche, aggiornamento triennale del docente, e cosa esclude (coordinatori, RSPP/ASPP, addestramento). Con l'interpello 1/2026 sui relatori dei seminari, e il confronto con la ricostruzione di prima, che sbagliava in otto punti |
 | [`interpello-1-2025-rischio-per-mansione.md`](interpello-1-2025-rischio-per-mansione.md) | Interpello MLPS 1/2025: la citazione ministeriale dell'ancoraggio ad ATECO 2007, e il rischio che si sposta per mansione nei due versi — sotto e sopra la classe dell'azienda |
 | [`aggiornamento-fonti.md`](aggiornamento-fonti.md) | la regola del controllo mensile sull'81/2008, che si muove: dove si guarda, cosa si confronta, cosa si fa quando cambia |
 | [`quadro-storico-ore-pregresse.md`](quadro-storico-ore-pregresse.md) | quante ore valevano prima dell'ASR 2025, figura per figura, per giudicare gli attestati gia in archivio: sette righe con il punto e la pagina, tre marcate perche non si leggono |
@@ -68,6 +69,8 @@ In `fonti/`, copiate dalla cartella aziendale
 | `D.M. 02_09_2021.pdf` | DM interno-lavoro 2 settembre 2021, antincendio: ore nell'allegato III | 02/09/2021 |
 | `Decreto Min. Salute n. 388_2003.pdf` | DM 15 luglio 2003 n. 388, primo soccorso: ore negli allegati 3 e 4 | 15/07/2003 |
 | `DI-22012019-segnaletica-stradale.pdf` | DI 22 gennaio 2019, segnaletica stradale: ore nell'allegato II | 22/01/2019 |
+| `DI-06032013-criteri-formatore.pdf` | D.I. 6 marzo 2013, criteri di qualificazione del formatore: **scansione** di 7 pagine, allegato numerato 1-5 (pagina del file = pagina dell'allegato + 2). Da lavoro.gov.it il 28/10/2026; avviso in G.U. n. 65 del 18/03/2013 | 06/03/2013 |
+| `Interpello-MLPS-1-2026-16042026.pdf` | Interpello MLPS 1/2026: i requisiti del D.I. 6/3/2013 non valgono per i relatori di seminari e convegni. Da lavoro.gov.it il 28/10/2026 | 16/04/2026 |
 | `ASR2025_Ufficiale_PiuSicurezza.pdf` | seconda resa dell'ASR 2025, 136 pagine, con l'intestazione di terzi su ognuna | 06/06/2025 |
 
 **Le note dei Vigili del Fuoco sul DM 02/09/2021**
@@ -204,7 +207,7 @@ elencarle perche finora esistevano solo come ricostruzioni:
 | fonte | serve a | dove sta la ricostruzione |
 | --- | --- | --- |
 | **DM 10 marzo 1998**, antincendio, abrogato | giudicare gli attestati antincendio anteriori al 4 ottobre 2022 | [`assorbite-organigramma/DM_10_03_1998_ANTINCENDIO_ABROGATO.txt`](assorbite-organigramma/DM_10_03_1998_ANTINCENDIO_ABROGATO.txt) |
-| **DI 6 marzo 2013**, qualificazione del formatore | verificare l'idoneita del docente indicato sull'attestato | [`assorbite-organigramma/DI_06_03_2013_REQUISITI_FORMATORI.txt`](assorbite-organigramma/DI_06_03_2013_REQUISITI_FORMATORI.txt) |
+| ~~**DI 6 marzo 2013**, qualificazione del formatore~~ | verificare l'idoneita del docente indicato sull'attestato | in `fonti/` dal 28/10/2026, trascritto in [`di-06-03-2013-formatore.md`](di-06-03-2013-formatore.md); la ricostruzione resta per memoria ed era sbagliata |
 | **Reg. (CE) 852/2004**, igiene alimentare | dire perche l'HACCP sta fuori dal motore | [`assorbite-organigramma/REG_CE_852_2004_HACCP.txt`](assorbite-organigramma/REG_CE_852_2004_HACCP.txt) |
 | **statistiche INAIL** sull'inabilita permanente | la condizione II del gruppo A di primo soccorso | nessuna: il buco era gia dichiarato e resta |
 
