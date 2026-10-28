@@ -101,6 +101,14 @@ G.U. Serie Generale n. 301 del 20/12/2021. L'art. 1 c. 2 della legge dice che «
 quello della sua pubblicazione»; normattiva riporta «Entrata in vigore del provvedimento: 21/12/2021». Quindi
 l'obbligo della presenza vale per i corsi e gli aggiornamenti del preposto **dal 21/12/2021**.
 
+**Conflitto sciolto (G3, decisione 7 di AppOverall)** — decisione di Francesco del 28/10/2026: per
+l'**aggiornamento** del preposto l'e-learning fatto prima del 19/05/2025 (entrata in vigore dell'ASR 2025) **vale**.
+L'accordo del 21/12/2011 lo ammetteva («i corsi di aggiornamento previsti al punto 9», punto «Utilizzo delle
+modalità di apprendimento e-Learning», pag. 5) e l'ASR 2025 (S-002), Parte VII, punto 2, pag. 112, fa «salvi i
+percorsi formativi effettuati in vigenza dell'accordo Stato-Regioni del 21 dicembre 2011». Per il **corso iniziale**
+l'e-learning era ammesso solo per i punti 1-5 del modulo: tutto in e-learning non vale a nessuna data. Dal
+19/05/2025 l'e-learning del preposto non vale. Applicata in AppOverall dalla migrazione 0210 (issue #157).
+
 La cadenza biennale il motore la sa. La modalita in presenza no: e un requisito
 sul **come** e stato erogato il corso, e in archivio non c'e un campo che lo dica.
 Sui corsi fatti da noi si sa; su quelli esterni riconosciuti, no.
