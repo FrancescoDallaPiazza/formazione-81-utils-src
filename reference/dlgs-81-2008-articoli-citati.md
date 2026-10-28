@@ -1453,3 +1453,31 @@ hanno un requisito proprio (due anni documentati, in formazione/prevenzione **e*
 tecnica), non il D.I. 6/3/2013, che si esclude per le «altre specifiche figure» e per
 l'addestramento. Se i due requisiti stiano nella stessa persona o in due, il testo dice «da
 personale [...] e da personale»: si legge come una docenza a due, ma e una lettura.
+
+## Art. 37 c. 11-12 — RLS: chi eroga lo decide il contratto
+
+Normattiva, **testo dell'art. 37 in vigore dal 7-4-2026** (versione 9), letto il 28 ottobre
+2026. Il c. 11 e trascritto in testa al file ed e uguale su normattiva: «Le modalita, la durata
+e i contenuti specifici della formazione del rappresentante dei lavoratori per la sicurezza sono
+stabiliti in sede di contrattazione collettiva nazionale, nel rispetto dei seguenti contenuti
+minimi [...]». Il c. 12:
+
+> 12. La formazione dei lavoratori e quella dei loro rappresentanti deve avvenire, in
+> collaborazione con gli organismi paritetici, ove presenti nel settore e nel territorio in
+> cui si svolge l'attivita del datore di lavoro, durante l'orario di lavoro e non puo
+> comportare oneri economici a carico dei lavoratori.
+
+**Cosa chiede la legge a enti e docenti del corso RLS**: niente di proprio. Non c'e un elenco di
+soggetti formatori ne un requisito dei docenti; le «modalita» le rinvia alla contrattazione
+collettiva nazionale (c. 11), e il c. 12 chiede la **collaborazione con gli organismi
+paritetici** dove ci sono. L'ASR 2025 non disciplina il corso RLS.
+
+**Il D.I. 6/3/2013** vale per i corsi «di cui agli articoli 34 e 37 del d.lgs. n. 81/2008 quali
+regolati dagli accordi del 21 dicembre 2011» (art. 1 c. 2): l'RLS sta nell'art. 37 ma gli
+accordi del 2011 non lo regolano. Se il D.I. si applichi ai docenti RLS, il testo non lo dice:
+**domanda aperta**.
+
+**Quello che manca** e il contratto: le regole su chi eroga e chi insegna, se ci sono, stanno
+nel CCNL del cliente o negli accordi interconfederali che lo attuano. Non sono atti pubblicati
+in Gazzetta ne su normattiva; si chiedono al cliente (il CCNL applicato) o si cercano
+nell'archivio CNEL dei contratti. Non letti qui.
