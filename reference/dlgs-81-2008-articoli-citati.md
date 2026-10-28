@@ -1481,3 +1481,56 @@ accordi del 2011 non lo regolano. Se il D.I. si applichi ai docenti RLS, il test
 nel CCNL del cliente o negli accordi interconfederali che lo attuano. Non sono atti pubblicati
 in Gazzetta ne su normattiva; si chiedono al cliente (il CCNL applicato) o si cercano
 nell'archivio CNEL dei contratti. Non letti qui.
+
+## Art. 77 c. 4 lett. h, c. 5 — lavori in quota e DPI anticaduta
+
+Il corso a catalogo «Lavori in quota e DPI anticaduta» (fuori da ponteggi e funi, che stanno
+nell'allegato XXI) non ha un accordo suo: la norma che lo regge e quella dei DPI. Normattiva,
+**testo dell'art. 77 in vigore dal 31-10-2025** (versione 2), letto il 28 ottobre 2026.
+
+> 4. Il datore di lavoro: [...]
+> h) assicura una formazione adeguata e organizza, se necessario, uno specifico addestramento
+> circa l'uso corretto e l'utilizzo pratico dei DPI.
+>
+> 5. In ogni caso l'addestramento e indispensabile:
+> a) per ogni DPI che, ai sensi del decreto legislativo 4 dicembre 1992, n. 475, appartenga
+> alla terza categoria;
+> b) per i dispositivi di protezione dell'udito.
+
+**A enti e docenti non chiede niente.** L'obbligo e del datore di lavoro; ne il comma ne altro
+articolo letto qui nomina un soggetto formatore o un requisito del docente. Che i DPI
+anticaduta siano di terza categoria lo dice il D.Lgs. 475/1992 (o il Reg. UE 2016/425 che lo ha
+sostituito), **non letto qui**. Il D.I. 6/3/2013 non riguarda «le attivita di addestramento»
+(allegato, pag. 1).
+
+## Art. 82 c. 1 — lavori elettrici: rinvio alla norma tecnica
+
+Normattiva, **testo in vigore dal 20-8-2009** (versione 2), letto il 28 ottobre 2026.
+
+> 1. E vietato eseguire lavori sotto tensione. Tali lavori sono tuttavia consentiti nei casi in
+> cui le tensioni su cui si opera sono di sicurezza, secondo quanto previsto dallo stato della
+> tecnica o quando i lavori sono eseguiti nel rispetto delle seguenti condizioni:
+> a) le procedure adottate e le attrezzature utilizzate sono conformi ai criteri definiti nelle
+> norme tecniche;
+> b) per sistemi di categoria 0 e I purche l'esecuzione di lavori su parti in tensione sia
+> affidata a lavoratori riconosciuti dal datore di lavoro come idonei per tale attivita
+> secondo le indicazioni della pertinente normativa tecnica;
+> c) per sistemi di II e III categoria purche:
+> 1) i lavori su parti in tensione siano effettuati da aziende autorizzate, con specifico
+> provvedimento del Ministero del lavoro, della salute e delle politiche sociali, ad operare
+> sotto tensione;
+> 2) l'esecuzione di lavori su parti in tensione sia affidata a lavoratori abilitati dal
+> datore di lavoro ai sensi della pertinente normativa tecnica riconosciuti idonei per tale
+> attivita.
+
+**La legge non dice chi forma ne chi insegna**: il lavoratore lo riconosce idoneo il **datore
+di lavoro**, «secondo le indicazioni della pertinente normativa tecnica». L'autorizzazione
+ministeriale del c. 1 lett. c n. 1 (e del decreto del c. 2) riguarda l'azienda che lavora sotto
+tensione in II e III categoria, non l'ente che fa il corso.
+
+**La norma tecnica manca.** E la CEI 11-27 «Lavori su impianti elettrici» (con la CEI EN
+50110-1), del Comitato Elettrotecnico Italiano: **a pagamento**, non su un sito istituzionale,
+e qui **non ricostruita**. Secondo il sito del CEI l'edizione in vigore e quella del 2025, che
+sostituisce la 2021. Si procura sul catalogo CEI (`mycatalogo.ceinorme.it`, o
+`vendite@ceinorme.it`); finche non c'e, cosa chieda a enti e docenti dei corsi PES/PAV/PEI non
+si sa da qui.
