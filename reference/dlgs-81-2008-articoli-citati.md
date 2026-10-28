@@ -1361,7 +1361,7 @@ dall'attestato chi ha cinque anni da pubblico ufficiale nella sicurezza delle co
 esame universitario o un perfezionamento conformi all'allegato XIV, o la laurea magistrale
 LM-26.
 
-**Come si incastra con l'ASR 2025** (S-002). La Parte I p. 1 (pag. 7) elenca i soggetti
+**Come si incastra con l'ASR 2025** (S-002). La Parte I p. 1 (pag. 6) elenca i soggetti
 formatori «salvo quanto diversamente disciplinato dall'articolo 98 del d.lgs. n. 81/2008»: per
 il corso dei coordinatori **l'elenco e quello del c. 2**, chiuso, e non quello dell'accordo. La
 Parte II p. 6 dell'ASR (pag. 34) «aggiorna e sostituisce i requisiti della formazione» dei

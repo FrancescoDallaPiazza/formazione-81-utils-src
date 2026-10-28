@@ -4,7 +4,7 @@ Decreto interministeriale del Ministro del lavoro e delle politiche sociali e de
 Ministro della salute, 6 marzo 2013, attuativo dell'art. 6 c. 8 lett. m-bis del
 D.Lgs. 81/2008: «criteri di qualificazione della figura del formatore per la salute
 e sicurezza sul lavoro». Registro Normativo **S-030**. L'ASR 17/04/2025 (S-002) lo
-richiama alla Parte I p. 2, «Requisiti dei docenti» (pag. 7): i docenti dei suoi
+richiama alla Parte I p. 2, «Requisiti dei docenti» (pag. 8): i docenti dei suoi
 corsi «devono essere in possesso dei requisiti di cui alla normativa vigente per i
 formatori [...] contenuti nel decreto Ministeriale 6 marzo 2013 e successive
 modifiche e integrazioni, fatto salvo quanto previsto per specifici percorsi
