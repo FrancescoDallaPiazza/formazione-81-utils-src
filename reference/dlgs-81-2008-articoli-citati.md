@@ -1379,3 +1379,77 @@ aperta**.
 
 **L'ISPESL** e nominato nell'elenco cosi com'e scritto; chi ne abbia preso le funzioni non e
 letto qui.
+
+## Allegato XXI p. 1-2 — ponteggi e funi: chi eroga, chi insegna
+
+Le ore stanno piu su, in «Allegato XXI — ponteggi e lavori su funi». Qui i due punti che quella
+sezione non trascriveva. Normattiva, **testo in vigore dal 20-8-2009** (versione 2
+dell'allegato, quella che la pagina dell'atto collega il 28 ottobre 2026), letto quel giorno.
+L'ASR 2025 non tocca l'allegato XXI: nell'estratto di `ASR-170425.pdf` non compare.
+
+### Ponteggi (art. 136 c. 8)
+
+> 1. INDIVIDUAZIONE DEI SOGGETTI FORMATORI E SISTEMA DI ACCREDITAMENTO Sono soggetti formatori
+> del corso di formazione e del corso di aggiornamento:
+> Regioni e Province Autonome, mediante le strutture tecniche operanti nel settore della
+> prevenzione, e/o mediante strutture della formazione professionale accreditate in
+> conformita al modello di accreditamento definito in ogni Regione e Provincia Autonoma ai
+> sensi del DM n. 166/01;
+> Ministero del lavoro e delle politiche sociali, mediante il personale tecnico impegnato in
+> attivita del settore della sicurezza sul lavoro;
+> ISPESL;
+> Associazioni sindacali dei datori di lavoro e dei lavoratori, nel settore dei lavori edili
+> e di ingegneria civile;
+> Organismi paritetici istituiti nel settore dell'edilizia;
+> Scuole edili.
+> Qualora i soggetti indicati nell'accordo intendano avvalersi di soggetti formatori esterni
+> alla propria struttura, questi ultimi dovranno essere in possesso dei requisiti previsti
+> nei modelli di accreditamento definiti in ogni Regione e Provincia Autonoma ai sensi del DM
+> n. 166/01.
+>
+> 2. INDIVIDUAZIONE E REQUISITI DEI DOCENTI
+> Le docenze verranno effettuate, con riferimento ai diversi argomenti, da personale con
+> esperienza documentata, almeno biennale, sia nel settore della formazione sia nel settore
+> della prevenzione, sicurezza e salute nei luoghi di lavoro e da personale con esperienza
+> professionale pratica, documentata, almeno biennale, nelle tecniche per il
+> montaggio/smontaggio ponteggi.
+
+E dal p. 3.1 lett. d: «per le attivita pratiche il rapporto istruttore /allievi non deve essere
+superiore al rapporto di 1 a 5 [...]; nel caso di solo 5 allievi (o meno di 5) sono richiesti
+comunque 2 docenti».
+
+### Lavori su funi (art. 116 c. 4)
+
+> 1. [...] Soggetti formatori del corso di formazione e del corso di aggiornamento:
+> a) Regioni e Province Autonome, [stesso testo dei ponteggi];
+> b) Ministero del lavoro e delle politiche sociali, mediante il personale tecnico impegnato
+> in attivita del settore della sicurezza sul lavoro;
+> c) ISPESL;
+> d) Associazioni sindacali dei datori di lavoro e dei lavoratori, nel settore dei lavori
+> edili e di ingegneria civile;
+> e) Organismi paritetici istituiti nel settore dell'edilizia;
+> f) Scuole edili;
+> g) Ministero dell'interno "Corpo dei VV.F.";
+> h) Collegio nazionale delle guide alpine di cui alla legge 02/01/1989 n. 6 "Ordinamento
+> della professione di guida alpina".
+> Qualora i soggetti indicati nell'accordo intendano avvalersi di soggetti formatori esterni
+> alla propria struttura, [stesso testo dei ponteggi].
+>
+> 2. INDIVIDUAZIONE E REQUISITI DEI DOCENTI
+> Le docenze verranno effettuate, con riferimento ai diversi argomenti, da personale con
+> esperienza formativa, documentata, almeno biennale, nel settore della prevenzione, sicurezza
+> e salute nei luoghi di lavoro, e da personale con esperienza formativa, documentata, almeno
+> biennale nelle tecniche che comportano l'impiego di sistemi di accesso e posizionamento
+> mediante funi e il loro utilizzo in ambito lavorativo.
+
+Rapporto istruttore/allievi per le attivita pratiche: «non deve essere superiore al rapporto di
+1 a 4» (p. 4.1, lett. e), massimo 20 partecipanti.
+
+**Cosa ne segue** (dedotto): per ponteggi e funi l'ente **deve stare nell'elenco**, che e
+chiuso; un ente privato ci entra solo come «soggetto formatore esterno» di uno dei soggetti
+elencati, **e** accreditato secondo il modello della sua Regione (DM 166/01). L'accreditamento
+regionale da solo non basta: serve anche il soggetto elencato che se ne avvale. I docenti
+hanno un requisito proprio (due anni documentati, in formazione/prevenzione **e** nella
+tecnica), non il D.I. 6/3/2013, che si esclude per le «altre specifiche figure» e per
+l'addestramento. Se i due requisiti stiano nella stessa persona o in due, il testo dice «da
+personale [...] e da personale»: si legge come una docenza a due, ma e una lettura.
