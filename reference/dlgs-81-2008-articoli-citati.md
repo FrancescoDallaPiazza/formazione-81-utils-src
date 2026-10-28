@@ -1328,3 +1328,54 @@ il testo vigente.
 **Limite dichiarato.** Come sopra, nessuna lettura a video pagina per pagina; e
 l'allegato II, che normattiva non serve per URN di articolo, e confrontato solo
 fra A e B.
+
+# Gli articoli di chi eroga e chi insegna
+
+Trascritti il 28 ottobre 2026 per la issue AppOverall #10: la migrazione 0166 di AppOverall
+(qualifica di enti e docenti fornitori) tiene due regimi senza regola, `art98` e `fuori_asr`,
+perche la fonte non era letta. Qui la si legge. **Letti solo su normattiva.it**, per URN con
+la vigenza esplicita (`...;81~artN!vig=2026-10-28`; senza la data, `!vig=` vuoto puo restituire
+la versione originaria del 2008: e successo con l'art. 37). Normattiva non ha pagine: si
+cita articolo e comma con la data «Testo in vigore dal» che la pagina dichiara. Il confronto
+con il testo coordinato non e fatto. Gli accenti sono tolti come nel resto del file.
+
+## Art. 98 c. 2 — chi organizza il corso dei coordinatori
+
+Normattiva, **testo in vigore dal 4-7-2023** (versione 4 dell'articolo), letto il 28 ottobre
+2026. Il c. 1 elenca i titoli di studio ed esperienza del coordinatore (lett. a-c); il c. 2:
+
+> 2. I soggetti di cui al comma 1, devono essere, altresi, in possesso di attestato di
+> frequenza, con verifica dell'apprendimento finale, a specifico corso in materia di
+> sicurezza organizzato **dalle regioni, mediante le strutture tecniche operanti nel settore
+> della prevenzione e della formazione professionale, o, in via alternativa, dall'ISPESL,
+> dall'INAIL, dall'Istituto italiano di medicina sociale, dagli ordini o collegi
+> professionali, dalle universita, dalle associazioni sindacali dei datori di lavoro e dei
+> lavoratori o dagli organismi paritetici istituiti nel settore dell'edilizia.** Fermo
+> restando l'obbligo di aggiornamento di cui all'allegato XIV, sono fatti salvi gli
+> attestati rilasciati nel rispetto della previgente normativa a conclusione di corsi
+> avviati prima della data di entrata in vigore del presente decreto.
+
+E il c. 3, primo periodo: «I contenuti, le modalita e la durata dei corsi di cui al comma 2
+devono rispettare almeno le prescrizioni di cui all'allegato XIV.» Il c. 4 esonera
+dall'attestato chi ha cinque anni da pubblico ufficiale nella sicurezza delle costruzioni, un
+esame universitario o un perfezionamento conformi all'allegato XIV, o la laurea magistrale
+LM-26.
+
+**Come si incastra con l'ASR 2025** (S-002). La Parte I p. 1 (pag. 7) elenca i soggetti
+formatori «salvo quanto diversamente disciplinato dall'articolo 98 del d.lgs. n. 81/2008»: per
+il corso dei coordinatori **l'elenco e quello del c. 2**, chiuso, e non quello dell'accordo. La
+Parte II p. 6 dell'ASR (pag. 34) «aggiorna e sostituisce i requisiti della formazione» dei
+coordinatori ai sensi del c. 3, cioe i contenuti (allegato XIV), non i soggetti. L'allegato
+XIV su normattiva e ancora nella versione in vigore dal 3-9-2016, e non dice niente dei
+docenti.
+
+**Sui docenti** il c. 2 tace, e il D.I. 6/3/2013 si chiama fuori: «I criteri previsti nel
+presente documento non riguardano la qualificazione della figura del formatore-docente in
+relazione ai corsi specifici per Coordinatori [...] (articolo 98 [...])» (allegato, pag. 1; vedi
+[`di-06-03-2013-formatore.md`](di-06-03-2013-formatore.md)). L'ASR 2025, Parte I p. 2, rinvia
+invece al D.I. per i docenti di tutti i corsi «del presente accordo», e il corso dei
+coordinatori sta nella sua Parte II. Quale delle due regga, il testo non lo dice: **domanda
+aperta**.
+
+**L'ISPESL** e nominato nell'elenco cosi com'e scritto; chi ne abbia preso le funzioni non e
+letto qui.
