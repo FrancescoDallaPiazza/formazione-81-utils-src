@@ -1499,8 +1499,8 @@ nell'allegato XXI) non ha un accordo suo: la norma che lo regge e quella dei DPI
 
 **A enti e docenti non chiede niente.** L'obbligo e del datore di lavoro; ne il comma ne altro
 articolo letto qui nomina un soggetto formatore o un requisito del docente. Che i DPI
-anticaduta siano di terza categoria lo dice il D.Lgs. 475/1992 (o il Reg. UE 2016/425 che lo ha
-sostituito), **non letto qui**. Il D.I. 6/3/2013 non riguarda «le attivita di addestramento»
+anticaduta siano di terza categoria lo dice il D.Lgs. 475/1992 che il comma richiama,
+**non letto qui**. Il D.I. 6/3/2013 non riguarda «le attivita di addestramento»
 (allegato, pag. 1).
 
 ## Art. 82 c. 1 — lavori elettrici: rinvio alla norma tecnica
