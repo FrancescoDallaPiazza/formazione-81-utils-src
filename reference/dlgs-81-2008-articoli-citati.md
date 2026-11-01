@@ -1496,8 +1496,10 @@ paritetici** dove ci sono. L'ASR 2025 non disciplina il corso RLS.
 
 **Il D.I. 6/3/2013** vale per i corsi «di cui agli articoli 34 e 37 del d.lgs. n. 81/2008 quali
 regolati dagli accordi del 21 dicembre 2011» (art. 1 c. 2): l'RLS sta nell'art. 37 ma gli
-accordi del 2011 non lo regolano. Se il D.I. si applichi ai docenti RLS, il testo non lo dice:
-**domanda aperta**.
+accordi del 2011 non lo regolano. Se il D.I. si applichi ai docenti RLS, il testo non lo dice.
+**Decisione di Francesco del 01/11/2026 (AppOverall #182, 0239): si applicano i criteri del
+D.I. 6/3/2013, lettura dedotta** (il corso sta nell'art. 37 e nessuna fonte letta ne regola i
+docenti; il CCNL del cliente, se dice di più, prevale).
 
 **Quello che manca** e il contratto: le regole su chi eroga e chi insegna, se ci sono, stanno
 nel CCNL del cliente o negli accordi interconfederali che lo attuano. Non sono atti pubblicati
