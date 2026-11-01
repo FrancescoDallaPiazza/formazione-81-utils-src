@@ -564,6 +564,11 @@ del 15 aprile 2026 la riassume come «PLE e piattaforme fuori strada in
 frutteto». E una verifica periodica dell'attrezzatura (art. 71 c. 11), non la
 formazione dell'operatore, che resta quella dell'accordo.
 
+**Decisione di Francesco del 01/11/2026** (Registro Normativo Sicurezza, azione A-011):
+«per operazioni in frutteto» è il campo di applicazione di tutta la voce. La verifica
+triennale vale solo per PLE e piattaforme fuori strada usate in frutteto; le altre PLE
+restano alla periodicità che avevano.
+
 **Un refuso dell'edizione.** L'elenco delle novita in apertura scrive «G.U. n. 38
 del 23/03/2026». Le note agli articoli scrivono n. 68, ed e quella giusta.
 
