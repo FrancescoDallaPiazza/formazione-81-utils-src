@@ -88,6 +88,15 @@ norma: precisano il decreto, non lo cambiano.
 | `VVF-DCPREV-7826-2022-05-31-DM-02-09-2021-procedure-formazione.pdf` | DCPREV prot. 7826, «Indicazioni procedurali per le attivita di formazione e di abilitazione», con le «Indicazioni applicative»: 21 pagine, **indice PDF = pagina stampata + 1**; la lettera di trasmissione ha la codifica dei caratteri rotta. Aggiornamento legato al livello del corso FOR (§2.4, pag. 16), formatori (§1.3-1.4, pag. 9) | 31/05/2022 | `9e388e89…ce42a43` |
 | `VVF-DCPREV-12301-2022-09-07-DM-02-09-2021-ulteriori-indicazioni.pdf` | DCPREV prot. 12301, «Ulteriori indicazioni procedurali per le attivita di formazione e materiali didattici»: il passaggio a un livello superiore richiede il corso intero (pag. 2-3) | 07/09/2022 | `eb6cd2e0…22e64f838` |
 
+**Una nota che vigilfuoco.it non pubblica.** La DCPREV prot. 4351 del 22/03/2023 non e su vigilfuoco.it ne su
+interno.gov.it (cercata il 01/11/2026, AppOverall #32). Per scelta di Francesco del 01/11/2026 si usa la copia della
+banca dati Olympus dell'Universita di Urbino, **dichiarata non ufficiale**: la pagina e salvata com'era, con i caratteri
+accentati gia rotti nell'originale.
+
+| file | cos'e | data | SHA-256 |
+| --- | --- | --- | --- |
+| `VVF-DCPREV-4351-2023-03-22-art6-c2-novanta-ore-OLYMPUS.html` | **copia non ufficiale** (olympus.uniurb.it, prassi amministrativa, scaricata il 01/11/2026). Ministero dell'Interno, Dip. VVF, Direzione centrale per la prevenzione e la sicurezza tecnica, Ufficio di coordinamento; risponde al quesito DCPRIN prot. 4260 del 20/03/2023 sull'art. 6 c. 2 del DM 02/09/2021. Testo: «per "documentata esperienza di almeno novanta ore come docenti in materia antincendio sia in ambito teorico che in ambito pratico" il legislatore intende che le 90 ore di docenza sono ottenibili, indifferentemente, come somma delle ore di docenza sia in ambito teorico che in ambito pratico». Senza firma nella copia | 22/03/2023 | `d1611dc0…85bd27944` |
+
 Sull'equivalenza fra livelli (un livello superiore che vale per l'inferiore)
 **tutte e tre tacciono**: verificato leggendole per intero il 15/10/2026.
 
