@@ -202,6 +202,9 @@ un termine di trenta giorni che oggi nessuna lista mostra. E una voce nuova per 
 decisioni aperte, non una regola pronta: prima va deciso se il motore debba
 guardare anche `rapporti_lavoro.data_assunzione`.
 
+Come lo applica l'Ispettorato, e quali prove dell'avvio accetta per tutti i settori:
+[`nota-inl-2377-2026-neoassunti.md`](nota-inl-2377-2026-neoassunti.md) (nota INL del 27/10/2026).
+
 ## Art. 16 — la delega di funzioni: cosa trasferisce, e cosa NON nomina
 
 Aperto l'11 settembre 2026 su una domanda precisa: **al datore di lavoro delegato
