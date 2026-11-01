@@ -1462,6 +1462,12 @@ tecnica), non il D.I. 6/3/2013, che si esclude per le «altre specifiche figure�
 l'addestramento. Se i due requisiti stiano nella stessa persona o in due, il testo dice «da
 personale [...] e da personale»: si legge come una docenza a due, ma e una lettura.
 
+**Decisione di Francesco del 01/11/2026** (AppOverall #10, `0232`), che supera la lettura sopra
+sull'accreditamento: le strutture accreditate della formazione professionale sono soggetti formatori
+dei ponteggi **da sole**, senza un soggetto dell'elenco che se ne avvalga. Sui docenti conferma la
+docenza a due: basta la squadra (uno con i due anni in formazione/prevenzione, uno con i due anni
+nella tecnica). Restano letture del testo, non affermate da una fonte.
+
 ## Art. 37 c. 11-12 — RLS: chi eroga lo decide il contratto
 
 Normattiva, **testo dell'art. 37 in vigore dal 7-4-2026** (versione 9), letto il 28 ottobre
