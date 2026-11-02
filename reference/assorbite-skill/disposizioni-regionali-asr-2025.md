@@ -16,6 +16,9 @@ MISURATO IL    27/05/2026 dalla skill; non riverificato all'assorbimento.
                Si rimisura aprendo l'atto di ciascuna Regione della matrice.
                Lombardia (§7.3) riscritta il 14/10/2026: testo della DGR
                XII/6661 del 03/08/2026 letto; Allegato A e data BURL no.
+               Lombardia (§7.3) integrata il 02/11/2026 (azione A-016): DGR
+               XII/5667 punti 7-8 e L.R. 17/2026 dal BURL, come riportati nelle
+               schede S-017, S-018 e S-019 del Database Normativo Sicurezza.
 ================================================================================
 
 ## Dove si verifica lo stato
@@ -96,8 +99,9 @@ Una riga per Regione/PA. **Stato atto specifico**: SÌ = c'è un atto regionale 
 ### 7.3 — Lombardia (Regione a maggior rischio evolutivo)
 
 - **DGR Regione Lombardia XII/4515 del 09/06/2025**: prima disposizione attuativa dell'ASR 17/04/2025 sui requisiti dei soggetti formatori e sull'organizzazione dei corsi nel territorio lombardo. **Vincolante per i soggetti accreditati Regione Lombardia**, NON per il datore di lavoro che eroga formazione interna ai propri dipendenti.
-- **DGR Regione Lombardia XII/5667 del 26/01/2026**: integrazione e correzione di DGR 4515. Stesso campo di applicazione.
-- **L.R. Lombardia n. 4 del 10/02/2026**: legge regionale che norma il **tracciamento di TUTTI i corsi erogati in Lombardia in materia di salute e sicurezza**, anche quelli organizzati direttamente dal datore di lavoro, e rinvia a una DGR attuativa.
+- **DGR Regione Lombardia XII/5667 del 26/01/2026** (BURL S.O. n. 6 del 02/02/2026, in vigore 30 giorni dopo): e-learning per la formazione specifica nel settore **sanità**, anche a rischio medio o alto, e modifiche alla DGR 4515. Punto 7: la richiesta di informazioni dell'ATS va fatta entro **10 giorni** dalla comunicazione di avvio corso (prima 30). Punto 8: le comunicazioni dell'allegato B valgono anche per i corsi carriponte. Stesso campo di applicazione della DGR 4515: non tocca il DDL che forma in casa, salvo verifica dell'allegato A, non letto per intero.
+- **L.R. Lombardia n. 4 del 10/02/2026**: legge regionale che norma il **tracciamento di TUTTI i corsi erogati in Lombardia in materia di salute e sicurezza**, anche quelli organizzati direttamente dal datore di lavoro, e rinvia a una DGR attuativa. Art. 7: art. 2 c. 7, art. 3 cc. 2-3 e art. 4 cc. 1 e 4 si applicano trascorsi trenta giorni dalla pubblicazione sul BURL delle delibere attuative.
+- **L.R. Lombardia n. 17 del 30/06/2026, art. 19 c. 6** (BURL Suppl. n. 27 del 03/07/2026), modifica la L.R. 4/2026: la piattaforma è interoperabile con il SIISL (art. 37 c. 14 D.Lgs. 81/08); all'art. 4 c. 3 gli attestati «non sono validi» diventa «non sono validi **ai soli fini della presente legge**». Entrata in vigore non verificata; art. 4 c. 3 per intero non letto.
 - **DGR Regione Lombardia XII/6661 del 03/08/2026** (attuativa della L.R. 4/2026). Testo della delibera letto il 14/10/2026 nella copia pubblicata da Assolombarda; **Allegato A** (indicazioni operative e specifiche tecniche) riservato agli associati e **non letto**.
 
   *Cosa dice la delibera*:
@@ -110,11 +114,12 @@ Una riga per Regione/PA. **Stato atto specifico**: SÌ = c'è un atto regionale 
 
   *Cosa dicono solo i commenti di settore (non trovato nella delibera, forse nell'Allegato A o nella L.R.)*:
   - comunicazione di avvio al più tardi 1 ora dopo l'inizio della prima lezione; oltre i 30 giorni la chiusura richiede una «conferma/dichiarazione tardiva» giustificata;
-  - attestati emessi fuori piattaforma **non validi** ai fini della legge regionale;
   - sanzioni da sei mesi dopo l'attivazione;
   - esclusi antincendio (art. 46), generatori di vapore, amianto.
 
-  **Data BURL non trovata al 14/10/2026**: non è nel BURL S.O. n. 33 del 12/08/2026 (che contiene la D.g.r. XII/6659 dello stesso giorno), e nessuna fonte consultata la riporta.
+  **Attestati fuori piattaforma**: la limitazione «non sono validi ai soli fini della presente legge» è nel testo della L.R. (art. 4 c. 3, come modificato dalla L.R. 17/2026), non solo nei commenti; resta da leggere a quali attestati si riferisce il comma.
+
+**Data BURL non ancora esistente al 30/10/2026**: la DGR XII/6661 compare solo nell'ordine del giorno della seduta n. 184 (BURL S.O. n. 32 del 05/08/2026); il testo non risulta pubblicato nei bollettini fino al 30/10/2026 (Database, S-019), quindi gli obblighi **non sono ancora applicabili**. ATS Bergamo (pagina aggiornata all'08/10/2026) indica la pubblicazione come prevista per novembre 2026: indicazione, non atto. Il nome «Ge.Fo.S.» non compare negli atti letti sul BURL: viene dalla delibera in copia Assolombarda e dalle fonti di settore.
 
 - Fino alla decorrenza resta applicabile la DGR XII/4515/2025 (pagina istituzionale della Regione, aggiornata al 06/05/2026).
 
@@ -122,7 +127,7 @@ Fonti del 14/10/2026: testo della DGR XII/6661 (copia Assolombarda, pagina «DGR
 
 **Impatto sul KIT FORMASUBITO**:
 - **Prima della decorrenza** (31° giorno dopo il BURL): KIT standard ASR conforme; nota informativa Ge.Fo.S. nel Progetto Formativo consigliata.
-- **Dopo la decorrenza**: per un corso svolto in Lombardia il DDL comunica avvio e chiusura su Ge.Fo.S., che rilascia l'attestato. Che gli attestati fuori piattaforma non valgano lo dicono i commenti, non la delibera: finché non si legge l'Allegato A, il KIT tratta il proprio attestato come documentazione interna accanto a quello Ge.Fo.S. Le skill `kitformasubito*` vanno aggiornate (nota obbligatoria e avviso sugli attestati) prima di emettere KIT per clienti lombardi.
+- **Dopo la decorrenza**: per un corso svolto in Lombardia il DDL comunica avvio e chiusura su Ge.Fo.S., che rilascia l'attestato. La L.R. limita la non validità degli attestati «ai soli fini della presente legge»: finché non si leggono l'art. 4 c. 3 per intero e l'Allegato A, il KIT tratta il proprio attestato come documentazione interna accanto a quello Ge.Fo.S. Le skill `kitformasubito*` vanno aggiornate (nota obbligatoria e avviso sugli attestati) prima di emettere KIT per clienti lombardi.
 - Prossimi passi: trovare la data BURL (fino ad allora la decorrenza non è calcolabile) e leggere l'Allegato A.
 
 **Query web di check al passo 0.5.c**: `DGR XII/6661 2026 Lombardia BURL Ge.Fo.S. [anno corrente]`.
