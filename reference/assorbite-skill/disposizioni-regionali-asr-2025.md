@@ -19,6 +19,8 @@ MISURATO IL    27/05/2026 dalla skill; non riverificato all'assorbimento.
                Lombardia (§7.3) integrata il 02/11/2026 (azione A-016): DGR
                XII/5667 punti 7-8 e L.R. 17/2026 dal BURL, come riportati nelle
                schede S-017, S-018 e S-019 del Database Normativo Sicurezza.
+               P.A. Bolzano (§7.7) riscritta il 13/11/2026: clausola ASR
+               riletta, delibera provinciale del 22/05/2026 dai comunicati.
 ================================================================================
 
 ## Dove si verifica lo stato
@@ -91,7 +93,7 @@ Una riga per Regione/PA. **Stato atto specifico**: SÌ = c'è un atto regionale 
 | Sicilia | SÌ — Decreto G.U.R.S. 27/03/2026 n. 15 | Da verificare (non analizzato in profondità) | §7.6 |
 | Toscana | NO | — | §7.8 |
 | Trentino-Alto Adige — P.A. Trento | NO | — | §7.8 |
-| Trentino-Alto Adige — P.A. Bolzano | SÌ — clausola di salvaguardia ASR + progetti pilota | Solo se cliente aderisce a progetto pilota | §7.7 |
+| Trentino-Alto Adige — P.A. Bolzano | SÌ — clausola in premessa ASR (progetti pilota d'accordo con il Ministero, nessuno attivato al 13/11/2026) + DGP 22/05/2026 e-learning rischio medio/alto | Solo se cliente aderisce a progetto pilota | §7.7 |
 | Umbria | NO | — | §7.8 |
 | Valle d'Aosta | NO | — | §7.8 |
 | Veneto | NO | — | §7.8 |
@@ -157,9 +159,16 @@ Fonti del 14/10/2026: testo della DGR XII/6661 (copia Assolombarda, pagina «DGR
 
 ### 7.7 — P.A. Bolzano
 
-- L'ASR 17/04/2025 contiene una clausola di salvaguardia che ammette per la P.A. Bolzano **progetti pilota sperimentali** (anche da remoto). **Gli attestati rilasciati in deroga in Bolzano NON sono validi nelle altre Regioni/PA**.
+*Riscritta il 13/11/2026* (testo ASR letto nella copia redigo.info, non sul PDF GU; FAQ da `../faq-interregionali-2025-testo.md`; delibera 2026 dai comunicati, testo non letto).
 
-**Impatto sul KIT FORMASUBITO**: dipende dal singolo cliente. Al passo 0.5.d le skill consumer chiedono se il cliente ha aderito a uno specifico progetto pilota (in tal caso il KIT standard non è la scelta giusta) oppure segue il percorso standard ASR (KIT standard conforme).
+- **Clausola per Bolzano nella premessa dell'ASR 17/04/2025** (paragrafo «Considerato che, nel corso della seduta del 17 aprile 2025…»; le Regioni l'hanno posta come condizione del parere favorevole, non sta in un punto numerato né nell'Allegato A): «la Provincia autonoma di Bolzano, **in accordo con il Ministero del lavoro** e delle politiche sociali, nell'ambito di specifici progetti pilota, può prevedere in via sperimentale differenti modalità di fruizione dei corsi e alternativi sistemi di apprendimento, anche da remoto, nonché deroghe al rapporto docente/discente». La formula «in Accordo SR con il Ministero» è delle FAQ, non dell'ASR.
+- **FAQ interregionali 2025 nn. 1 e 2**: gli attestati dei percorsi sperimentali di Bolzano «non troveranno riconoscimento se non nel territorio della provincia di Bolzano».
+- **Progetti pilota con il Ministero**: al 13/11/2026 non risulta alcun accordo, quindi nessun progetto pilota ex clausola attivato. Sarebbero comunque facoltativi.
+- **Delibera della Giunta provinciale del 22/05/2026** (numero non trovato): mette a regime l'e-learning sulla piattaforma provinciale Copernicus per la formazione specifica dei lavoratori a rischio **medio (8 h) e alto (12 h)**, estendibile a enti formatori accreditati o con sede in Alto Adige; attestati validi in provincia. Si richiama alla parte dell'ASR sui progetti formativi individuati da Regioni e PA, non alla clausola Bolzano. Facoltativa: affianca l'aula. Non riguarda il rischio basso. Da leggere: eventuali condizioni su lingua o soggetti formatori. Fonte: [notizia Provincia](https://lavoro.provincia.bz.it/it/news/sicurezza-sul-lavoro-e-learning-per-tutte-le-categorie-di-rischio).
+- **Protocollo d'intesa Trento–Bolzano (maggio 2026)**: tavoli comuni e sensibilizzazione, non tocca la formazione ASR.
+- Nessun atto provinciale trovato che vincoli il DL che forma in casa i propri dipendenti; nessuna norma provinciale specifica sulla lingua dei corsi (bilinguismo da verificare sulle norme provinciali generali).
+
+**Impatto sul KIT FORMASUBITO**: oggi si applica l'ASR nazionale e il KIT standard è conforme. Dipende dal singolo cliente solo se in futuro aderisce a un progetto pilota. Al passo 0.5.d le skill consumer chiedono se il cliente ha aderito a uno specifico progetto pilota (in tal caso il KIT standard non è la scelta giusta) oppure segue il percorso standard ASR (KIT standard conforme).
 
 **Query web di check**: `progetti pilota Bolzano formazione sicurezza ASR 59/2025 deroghe`.
 
