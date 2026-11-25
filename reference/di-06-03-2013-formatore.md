@@ -269,6 +269,36 @@ possesso di uno dei criteri di cui al presente documento».
 Il monitoraggio: la Commissione consultiva si riserva, trascorsi 12 mesi
 dall'applicazione, di valutarne l'efficacia.
 
+## La deroga dell'ASR 2025 per il datore di lavoro (Parte II p. 2, pag. 10)
+
+Il «fatto salvo» della Parte I p. 2 rimanda anche qui. ASR 17/04/2025, Parte II,
+punto 2 «Corso per lavoratori, preposti e dirigenti», pagina stampata 10
+(`fonti/ASR-170425.pdf`, SHA-256 `b13b6257…6138f4b`):
+
+> Il datore di lavoro in possesso dei requisiti per lo svolgimento diretto dei
+> compiti del servizio di prevenzione e protezione di cui all'articolo 34 del
+> d.lgs. n. 81/2008, può svolgere anche in qualità di docente, esclusivamente nei
+> riguardi dei propri lavoratori, preposti e dirigenti, la formazione di cui ai
+> paragrafi: 2.1, 2.2 e 2.3.
+
+Lo stesso punto dice prima che il datore di lavoro puo organizzare i corsi come
+soggetto formatore e che, organizzandoli, «deve avvalersi di docenti formatori in
+possesso dei requisiti di cui al paragrafo 2 della Parte I»: la frase sull'art. 34
+e l'eccezione a questa regola.
+
+Cosa ne segue:
+
+- **Il DL con i requisiti dell'art. 34 fa il docente senza i criteri del D.I.
+  2013**, ma solo per i propri lavoratori (2.1), preposti (2.2) e dirigenti (2.3).
+  Non per altri corsi (antincendio, primo soccorso, attrezzature) ne per altre
+  aziende.
+- **Il testo chiede di essere «in possesso dei requisiti»**, non di svolgere i
+  compiti di RSPP. Il caso del DL formato art. 34 che ha nominato un RSPP esterno
+  il testo non lo tratta in modo espresso: Overall, per prudenza, gli consiglia
+  anche il percorso formatore del D.I. 2013 (decisione del 25/11/2026, cliente
+  Vegnot).
+- E la base del KIT FORMASUBITO, che prevede di default la docenza del DL-RSPP.
+
 ## Cosa ne segue per il motore (dedotto)
 
 - **La qualifica e per area tematica**, non per corso: un docente e qualificato
@@ -279,7 +309,9 @@ dall'applicazione, di valutarne l'efficacia.
   triennio decorre dal 18/03/2014 per chi era gia qualificato, dalla qualifica per
   gli altri. Cosa succede a chi non si aggiorna il testo **non lo dice**.
 - **Il datore di lavoro che forma i propri lavoratori** non ha bisogno del
-  prerequisito (art. 1 c. 5), ma un criterio si.
+  prerequisito (art. 1 c. 5). Se ha i requisiti dell'art. 34 non gli servono
+  nemmeno i criteri, per i corsi 2.1-2.3 dell'ASR 2025: vedi la sezione sopra.
+  Senza i requisiti dell'art. 34, un criterio si.
 - **Il 6° criterio vale solo nel macro-settore ATECO** dell'RSPP/ASPP.
 - **Il perimetro**: l'art. 1 c. 2 lo lega ai corsi degli artt. 34 e 37 «quali
   regolati dagli accordi del 21 dicembre 2011»; l'allegato esclude i corsi per
