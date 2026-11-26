@@ -18,7 +18,7 @@ dei cinque file sono ricostruzioni che **non possono essere citate**.
 
 | file | materia | citabile |
 | --- | --- | --- |
-| [`ASR_59_2025_punto6_ATTESTAZIONI.txt`](ASR_59_2025_punto6_ATTESTAZIONI.txt) | elementi minimi dell'attestato, regime vigente | **si** — ASR 2025 parte I punto 6, pag. 9 a 136. Ma il punto 7 di questo file e sbagliato: vedi sotto |
+| [`ASR_59_2025_punto6_ATTESTAZIONI.txt`](ASR_59_2025_punto6_ATTESTAZIONI.txt) | elementi minimi dell'attestato, regime vigente | **si** — ASR 2025 parte I punti 6 e 7, pag. 9 a 136. Il punto 7 era sbagliato, corretto il 26/11/2026: vedi sotto |
 | [`ASR_221_2011_punto7_ATTESTATI.txt`](ASR_221_2011_punto7_ATTESTATI.txt) | elementi minimi dell'attestato, regime abrogato | si, andando al punto 7 dell'accordo in `fonti/`: questo file e una sintesi con tre scarti |
 | [`DI_06_03_2013_REQUISITI_FORMATORI.txt`](DI_06_03_2013_REQUISITI_FORMATORI.txt) | qualificazione del formatore | **no, dedotto**: il decreto non e in `fonti/` |
 | [`DM_10_03_1998_ANTINCENDIO_ABROGATO.txt`](DM_10_03_1998_ANTINCENDIO_ABROGATO.txt) | antincendio prima del 4 ottobre 2022 | **no, dedotto**: il decreto non e in `fonti/` |
@@ -63,7 +63,8 @@ Sotto G3 della decisione 7, un conflitto sciolto lascia una riga scritta.
 «copia degli attestati; materiale didattico; questionario di gradimento».
 Nell'accordo non ci sono. E manca «progetto formativo e programma del corso»,
 che c'e. Verificato il 10/09/2026 su `fonti/ASR-170425.pdf`, pagina «Pag. 9 a
-136». **Vince il testo dell'accordo.** Se quelle tre voci fossero passate in una
+136». **Vince il testo dell'accordo.** Il file e stato corretto il 26/11/2026: il
+punto 7 ora e ricopiato parola per parola dal PDF. Se quelle tre voci fossero passate in una
 lista di controllo, avremmo chiesto a un ente formatore documenti che nessuno
 gli chiede.
 

@@ -10,16 +10,14 @@ CITAZIONE      ASR 17/04/2025 (Rep. Atti n. 59/CSR), Parte I, punto 6
                136» del documento, che e la pagina 12 dell'estrazione
                `pdftotext -layout` di fonti/ASR-170425.pdf. Verificato riga per
                riga il 10/09/2026 contro quel testo.
-DIVERGENZA     il punto 6 combacia. Il punto 7 **no**: questa resa elenca «copia
-               degli attestati; materiale didattico; questionario di gradimento»,
-               che nell'accordo NON ci sono, e omette «progetto formativo e
-               programma del corso», che c'e. L'elenco vero e di cinque voci:
-               dati anagrafici dei partecipanti; registro presenze con firme;
-               elenco dei docenti con firme; progetto formativo e programma del
-               corso; verbale di verifica finale (paragrafo 4, parte I).
-               **Per il punto 7 si cita fonti/ASR-170425.pdf, non questo file.**
-               E il motivo per cui la regola «niente copia cieca» esiste: tre
-               voci inventate sarebbero entrate senza che nessuno le rileggesse.
+DIVERGENZA     il punto 6 combacia. Il punto 7, nella resa originaria, elencava
+               «copia degli attestati; materiale didattico; questionario di
+               gradimento», che nell'accordo NON ci sono, e ometteva «progetto
+               formativo e programma del corso», che c'e. Corretto il 26/11/2026:
+               il punto 7 qui sotto e ora ricopiato parola per parola da
+               fonti/ASR-170425.pdf (righe 500-509 di `pdftotext -layout`).
+               Il motivo per cui la regola «niente copia cieca» esiste: tre voci
+               inventate sarebbero entrate senza che nessuno le rileggesse.
 ================================================================================
 
 ASR 17/04/2025 (Rep. Atti 59/CSR) — Parte I, punto 6 "ATTESTAZIONI"
@@ -41,7 +39,15 @@ Gli attestati rilasciati ai sensi del presente accordo hanno validità su tutto 
 territorio nazionale.
 
 7 - FASCICOLO DEL CORSO
-Per ogni corso, il soggetto formatore custodisce/archivia (cartacea o elettronica) il
-"Fascicolo del corso" e lo conserva per almeno 10 anni. Contiene: dati anagrafici dei
-partecipanti; registro presenze con firme; elenco docenti con firme; verbali delle verifiche
-finali; copia degli attestati; materiale didattico; questionario di gradimento.
+Per ogni corso di formazione e aggiornamento, il soggetto formatore provvede alla
+custodia/archiviazione (cartacea o elettronica) della documentazione "Fascicolo del corso". Tale
+documentazione deve essere conservata, presso il soggetto formatore, per almeno 10 anni e
+deve contenere:
+  - dati anagrafici dei partecipanti;
+  - registro presenze dei partecipanti con firme;
+  - elenco dei docenti con firme;
+  - progetto formativo e programma del corso;
+  - verbale di verifica finale di cui al paragrafo 4, parte I.
+
+[nota, non dell'accordo: il rimando "paragrafo 4, parte I" e sbagliato nel testo
+ dell'accordo; i verbali delle verifiche finali sono il punto 5 della Parte I, pag. 8.]
