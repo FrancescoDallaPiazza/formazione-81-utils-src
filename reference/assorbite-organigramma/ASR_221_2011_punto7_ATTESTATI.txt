@@ -23,14 +23,16 @@ DIVERGENZE     confrontata col testo il 10/09/2026, tre scarti:
                   Questo repo usa il **19 maggio**: entrata in vigore
                   19/05/2025 e fine del transitorio 19/05/2026 (migrazione
                   0043 e reference/asr-2025-parte-vii.md). Le date di questo
-                  file **non si applicano**; resta scritto qui cosa dicevano e
+                  file non si applicavano; resta scritto qui cosa dicevano e
                   perche non valgono, come chiede G3 della decisione 7.
+                  Corretto il 27/11/2026: le date qui sotto sono al 19/05
+                  (Organigramma-sicurezza c19e4d2).
                Per citare, si va al punto 7 dell'accordo. Questo file serve a
                sapere cosa cercare.
 ================================================================================
 
 ASR 21/12/2011 (Rep. Atti 221/CSR) — punto 7 "ATTESTATI"  [SINTESI OPERATIVA]
-Regime applicabile agli attestati emessi fino al 23/05/2026 (periodo transitorio).
+Regime applicabile ai corsi avviati entro il 19/05/2026 (periodo transitorio).
 Testo integrale: references/accordi/ASR_221_2011_lavoratori_RAW.txt
 
 Elementi minimi richiesti all'attestato sotto il regime 2011:
@@ -42,5 +44,5 @@ Elementi minimi richiesti all'attestato sotto il regime 2011:
   - riferimento normativo dell'Accordo applicato.
 Validità nazionale dell'attestato.
 
-Nota: per gli attestati emessi dal 24/05/2025 si applica invece il punto 6 dell'ASR 2025
+Nota: per gli attestati emessi dal 19/05/2025 si applica invece il punto 6 dell'ASR 2025
 (file ASR_59_2025_punto6_ATTESTAZIONI.txt).

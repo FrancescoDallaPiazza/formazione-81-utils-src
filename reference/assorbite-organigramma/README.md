@@ -77,6 +77,9 @@ e `reference/asr-2025-parte-vii.md`. Il motivo e che le FAQ interregionali
 invocano l'art. 32 della legge 69/2009, che e norma primaria e sta sopra
 all'accordo — e quando si sbaglia, si sbaglia in anticipo. **Vince il 19
 maggio**, e le date di quei file non si applicano.
+Corretti il 27/11/2026: i due estratti di questa cartella e, nella skill d'origine, `accordi-storici.md` e
+`percorsi-formativi.md` (Organigramma-sicurezza `c19e4d2`, l'app
+organigramma `81b10c0`). Ora usano tutti il 19 maggio.
 
 **3. L'accordo attrezzature che citiamo e una ristampa di terzi.**
 `fonti/Accordo-formazione-attrezzature-22-2-2012.pdf` porta il footer «Vega
